@@ -1,0 +1,905 @@
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmReception.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmBackupData.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmBilling.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmBloodCp.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmCompanies.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmCreateDB.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmCrossMatch.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmDashBoard.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmDonorProfile.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmInputBox.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmInvIssue.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmLoginInput.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmMaintenance.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmRptFormat.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Status.resources
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Laboratory System Pro.vbproj.GenerateResource.Cache
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.application
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.config
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.manifest
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\Laboratory Systems Pro.application
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\Laboratory Systems Pro.pdb
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\Laboratory Systems Pro.xml
+D:\IRFAN SOFTWARES\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmReferCode.resources
+E:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.config
+E:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+E:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+E:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+E:\Laboratory System Professional\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmReception.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmBackupData.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmBilling.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmBloodCp.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmCompanies.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmCreateDB.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmCrossMatch.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmDashBoard.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmDonorProfile.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmInputBox.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmInvIssue.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmLoginInput.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmMaintenance.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmRptFormat.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.frmReferCode.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Status.resources
+E:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory System Pro.vbproj.GenerateResource.Cache
+E:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+E:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+E:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+E:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.application
+E:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.manifest
+E:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.application
+E:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe
+E:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.pdb
+E:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.xml
+D:\Laboratory System Professional\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemFull.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemistry.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BIOPSY.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CultureReportViewer.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CYTOLOGY.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FileList.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountReports.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountStatment.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BackupData.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CpBilling.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BillReport.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Companies.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CreateDB.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CrossMatch.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocCases.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorProfile.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.EditPatient.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyCases.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyStat.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocList.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Hormones.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microbiology.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microscopic.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Miscellaneous.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NoGrowth.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccountList.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccounts.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournal.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournalView.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyLedgers.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RemarkCodeList.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportCodeList.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFile.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportPreviewForm.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportRemarksList.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InputBox.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Inventory.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryIssue.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryTransactions.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalBook.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LabInfo.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLedgers.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LoginInput.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReception.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReports.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Maintenance.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NameCorrection.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountHeads.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BloodCp.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportsList.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PatientReport.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintDialog.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintRateList.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintSlip.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RateInquiry.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestsRates.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.StatReports.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFormat.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ServerParameters.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SystemUser.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CollectionPoint.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainForm.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferenceList.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestCodeList.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Patient.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Tests.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.UrineDr.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalView.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Visitors.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferCode.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLists.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Status.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory System Pro.vbproj.GenerateResource.Cache
+D:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+D:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+D:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+D:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.application
+D:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.config
+D:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.manifest
+D:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.application
+D:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+D:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+D:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+D:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe
+D:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.pdb
+D:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.xml
+F:\Laboratory System Professional\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemFull.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemistry.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BIOPSY.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Bonemarrow.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CultureReportViewer.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CYTOLOGY.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Dashborad.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorReport.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FileList.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountReports.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountStatment.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BackupData.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CpBilling.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BillReport.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Companies.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CreateDB.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CrossMatch.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocCases.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorProfile.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.EditPatient.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyCases.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyStat.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocList.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.HistopathologyReport.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Hormones.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microbiology.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microscopic.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Miscellaneous.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MiscParameters.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NoGrowth.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccountList.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccounts.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournal.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournalView.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyLedgers.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintReport.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RemarkCodeList.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportCodeList.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFile.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportPreviewForm.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportRemarksList.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InputBox.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Inventory.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryIssue.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryTransactions.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalBook.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LabInfo.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLedgers.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LoginInput.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReception.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReports.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Maintenance.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NameCorrection.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountHeads.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BloodCp.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportsList.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PatientReport.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintDialog.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintRateList.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintSlip.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RateInquiry.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestsRates.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.StatReports.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFormat.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ServerParameters.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SystemUser.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CollectionPoint.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainForm.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferenceList.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestCodeList.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Patient.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Tests.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.UrineDr.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalView.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Visitors.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferCode.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLists.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Status.resources
+F:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory System Pro.vbproj.GenerateResource.Cache
+F:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+F:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+F:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+F:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.application
+F:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.config
+F:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.manifest
+F:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.application
+F:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+F:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+F:\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+F:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe
+F:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.pdb
+F:\Laboratory System Professional\LabSystem\Laboratory Systems Pro.xml
+F:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.config
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemFull.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemistry.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BIOPSY.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Bonemarrow.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MasterControl.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CopyBiopsy.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CopyCytology.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CultureReportViewer.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CYTOLOGY.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DatabaseParameters.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.EmployeeList.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Employees.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MultipleStone.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PatientDashboard.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CasesDashboard.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorReport.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FileList.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountReports.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountStatment.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BackupData.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CpBilling.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BillReport.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Companies.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CreateDB.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CrossMatch.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocCases.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorProfile.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.EditPatient.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyCases.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyStat.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocList.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SalaryForm.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SalaryReports.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SystemPrinter.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TaxPercentAdj.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.HistopathologyReport.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Hormones.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microbiology.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microscopic.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Miscellaneous.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MiscParameters.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NoGrowth.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PayDate.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccountList.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccounts.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournal.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournalView.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyLedgers.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintReport.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RemarkCodeList.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportCodeList.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFile.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportPreviewForm.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportRemarksList.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InputBox.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Inventory.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryIssue.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryTransactions.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalBook.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LabInfo.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLedgers.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LoginInput.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReception.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReports.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Maintenance.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NameCorrection.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountHeads.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BloodCp.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportsList.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PatientReport.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintDialog.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintRateList.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintSlip.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RateInquiry.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestsRates.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.StatReports.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFormat.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ServerParameters.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SystemUser.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CollectionPoint.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainForm.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferenceList.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestCodeList.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Patient.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Tests.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestStatistics.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.UrineDr.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalView.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Visitors.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferCode.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLists.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Status.resources
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory System Pro.vbproj.GenerateResource.Cache
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+F:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.application
+F:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.manifest
+F:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.application
+F:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe
+F:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.pdb
+F:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.xml
+X:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.config
+X:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+X:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+X:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemFull.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemistry.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BIOPSY.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Bonemarrow.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MasterControl.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CopyBiopsy.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CopyCytology.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CultureReportViewer.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CYTOLOGY.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DatabaseParameters.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.EmployeeList.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Payroll.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FiscalPeriodSelect.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FiscalYearCreate.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MultipleStone.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PatientDashboard.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CasesDashboard.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorReport.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FileList.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountReports.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountStatment.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BackupData.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CpBilling.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BillReport.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Companies.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CreateDB.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CrossMatch.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocCases.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorProfile.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.EditPatient.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyCases.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyStat.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocList.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SalaryForm.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SalaryReports.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SystemPrinter.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TaxPercentAdj.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.HistopathologyReport.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Hormones.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microbiology.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microscopic.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Miscellaneous.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MiscParameters.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NoGrowth.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PayDate.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccountList.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccounts.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournal.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournalView.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyLedgers.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintReport.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RemarkCodeList.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportCodeList.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFile.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportPreviewForm.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportRemarksList.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InputBox.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Inventory.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryIssue.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryTransactions.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalBook.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LabInfo.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLedgers.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LoginInput.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReception.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReports.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Maintenance.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NameCorrection.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountHeads.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BloodCp.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportsList.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PatientReport.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintDialog.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintRateList.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintSlip.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RateInquiry.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestsRates.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.StatReports.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFormat.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ServerParameters.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SystemUser.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CollectionPoint.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainForm.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferenceList.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestCodeList.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Patient.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Tests.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestStatistics.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.UrineDr.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalView.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Visitors.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferCode.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLists.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Status.resources
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory System Pro.vbproj.GenerateResource.Cache
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.application
+D:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.config
+D:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.manifest
+D:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.application
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+D:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+D:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe
+D:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.pdb
+D:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.xml
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemFull.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemistry.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BIOPSY.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Bonemarrow.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MasterControl.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CopyBiopsy.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CopyCytology.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CultureReportViewer.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CYTOLOGY.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DatabaseParameters.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.EmployeeList.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Payroll.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FiscalPeriodSelect.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FiscalYearCreate.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MultipleStone.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PatientDashboard.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CasesDashboard.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorReport.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FileList.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountReports.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountStatment.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BackupData.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CpBilling.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BillReport.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Companies.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CreateDB.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CrossMatch.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocCases.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorProfile.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.EditPatient.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyCases.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyStat.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocList.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SalaryForm.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SalaryReports.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SystemPrinter.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TaxPercentAdj.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.HistopathologyReport.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Hormones.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microbiology.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microscopic.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Miscellaneous.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MiscParameters.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NoGrowth.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PayDate.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccountList.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccounts.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournal.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournalView.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyLedgers.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintReport.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RemarkCodeList.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportCodeList.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFile.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportPreviewForm.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportRemarksList.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InputBox.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Inventory.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryIssue.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryTransactions.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalBook.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LabInfo.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLedgers.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LoginInput.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReception.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReports.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Maintenance.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NameCorrection.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountHeads.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BloodCp.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportsList.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PatientReport.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintDialog.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintRateList.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintSlip.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RateInquiry.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestsRates.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.StatReports.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFormat.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ServerParameters.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SystemUser.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CollectionPoint.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainForm.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferenceList.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestCodeList.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Patient.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Tests.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestStatistics.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.UrineDr.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalView.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Visitors.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferCode.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLists.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Status.resources
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory System Pro.vbproj.GenerateResource.Cache
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.application
+E:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.config
+E:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.manifest
+E:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.application
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+E:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+E:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe
+E:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.pdb
+E:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.xml
+Z:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.config
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemFull.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemistry.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BIOPSY.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Bonemarrow.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MasterControl.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CopyBiopsy.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CopyCytology.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CultureReportViewer.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CYTOLOGY.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DatabaseParameters.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.EmployeeList.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Payroll.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FiscalPeriodSelect.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FiscalYearCreate.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MultipleStone.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PatientDashboard.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CasesDashboard.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorReport.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FileList.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountReports.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountStatment.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BackupData.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CpBilling.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BillReport.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Companies.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CreateDB.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CrossMatch.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocCases.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorProfile.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.EditPatient.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyCases.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyStat.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocList.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SalaryForm.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SalaryReports.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SystemPrinter.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TaxPercentAdj.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.HistopathologyReport.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Hormones.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microbiology.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microscopic.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Miscellaneous.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MiscParameters.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NoGrowth.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PayDate.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccountList.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccounts.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournal.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournalView.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyLedgers.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintReport.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RemarkCodeList.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportCodeList.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFile.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportPreviewForm.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportRemarksList.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InputBox.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Inventory.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryIssue.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryTransactions.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalBook.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LabInfo.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLedgers.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LoginInput.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReception.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReports.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Maintenance.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NameCorrection.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountHeads.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BloodCp.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportsList.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PatientReport.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintDialog.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintRateList.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintSlip.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RateInquiry.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestsRates.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.StatReports.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFormat.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ServerParameters.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SystemUser.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CollectionPoint.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainForm.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferenceList.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestCodeList.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Patient.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Tests.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestStatistics.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.UrineDr.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalView.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Visitors.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferCode.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLists.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Status.resources
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory System Pro.vbproj.GenerateResource.Cache
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+Z:\My Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.application
+Z:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe.manifest
+Z:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.application
+Z:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.exe
+Z:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.pdb
+Z:\My Projects\Laboratory System Professional\LabSystem\Laboratory Systems Pro.xml
+Z:\My Projects\Laboratory System Professional\LabSystem\bin\Debug\Laboratory Systems Pro.exe.config
+Z:\Final Projects\Laboratory System Professional\LabSystem\bin\Debug\Laboratory Systems Pro.exe.config
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+Z:\Final Projects\Laboratory System Professional\LabSystem\bin\Debug\Laboratory Systems Pro.exe.manifest
+Z:\Final Projects\Laboratory System Professional\LabSystem\bin\Debug\Laboratory Systems Pro.application
+Z:\Final Projects\Laboratory System Professional\LabSystem\bin\Debug\Laboratory Systems Pro.exe
+Z:\Final Projects\Laboratory System Professional\LabSystem\bin\Debug\Laboratory Systems Pro.pdb
+Z:\Final Projects\Laboratory System Professional\LabSystem\bin\Debug\Laboratory Systems Pro.xml
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemFull.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BioChemistry.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BIOPSY.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Bonemarrow.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MasterControl.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CopyBiopsy.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CopyCytology.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CultureReportViewer.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CYTOLOGY.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DatabaseParameters.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.EmployeeList.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Payroll.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FiscalPeriodSelect.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FiscalYearCreate.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MultipleStone.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PatientDashboard.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CasesDashboard.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorReport.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FileList.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountReports.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountStatment.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BackupData.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CpBilling.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BillReport.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Companies.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CreateDB.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CrossMatch.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocCases.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorProfile.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.EditPatient.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyCases.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DailyStat.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DocList.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SalaryForm.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SalaryReports.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SystemPrinter.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TaxPercentAdj.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.HistopathologyReport.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Hormones.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microbiology.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Microscopic.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Miscellaneous.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MiscParameters.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NoGrowth.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PayDate.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccountList.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyAccounts.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournal.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyJournalView.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PettyLedgers.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintReport.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RemarkCodeList.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportCodeList.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFile.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportPreviewForm.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportRemarksList.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InputBox.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Inventory.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryIssue.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.InventoryTransactions.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalBook.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LabInfo.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLedgers.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.LoginInput.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReception.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainReports.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Maintenance.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.NameCorrection.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountHeads.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.BloodCp.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportsList.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PatientReport.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintDialog.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintRateList.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintSlip.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.RateInquiry.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestsRates.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.StatReports.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReportFormat.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ServerParameters.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SystemUser.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CollectionPoint.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MainForm.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferenceList.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestCodeList.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Patient.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Tests.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestStatistics.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.UrineDr.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountJournalView.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Visitors.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.ReferCode.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.AccountLists.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Status.resources
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory System Pro.vbproj.GenerateResource.Cache
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+Z:\Final Projects\Laboratory System Professional\LabSystem\obj\Debug\Laboratory Systems Pro.application
+D:\Laboratory System Professional\LabSystem\bin\Debug\Laboratory Systems Pro.exe.config
+D:\Laboratory System Professional\LabSystem\bin\Debug\Laboratory Systems Pro.exe.manifest
+D:\Laboratory System Professional\LabSystem\bin\Debug\Laboratory Systems Pro.application
+D:\Laboratory System Professional\LabSystem\bin\Debug\Laboratory Systems Pro.exe
+D:\Laboratory System Professional\LabSystem\bin\Debug\Laboratory Systems Pro.pdb
+D:\Laboratory System Professional\LabSystem\bin\Debug\Laboratory Systems Pro.xml
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Bonemarrow.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MasterControl.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CopyBiopsy.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CopyCytology.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DatabaseParameters.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.EmployeeList.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.Payroll.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FiscalPeriodSelect.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.FiscalYearCreate.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MultipleStone.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PatientDashboard.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.CasesDashboard.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.DonorReport.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SalaryForm.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SalaryReports.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.SystemPrinter.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TaxPercentAdj.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.HistopathologyReport.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.MiscParameters.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PayDate.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.PrintReport.resources
+D:\Laboratory System Professional\LabSystem\obj\Debug\Business_Solutions.TestStatistics.resources

@@ -1,0 +1,229 @@
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Laboratory System SALE.vbproj.GenerateResource.Cache
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.application
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\Laboratory Systems Pro.exe.config
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\Laboratory Systems Pro.exe.manifest
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\Laboratory Systems Pro.application
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\Laboratory Systems Pro.exe
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\Laboratory Systems Pro.pdb
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\Laboratory Systems Pro.xml
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+D:\IRFAN SOFTWARES\Laboratory System Sale\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+E:\Laboratory System Sale\LabSystem\Laboratory Systems Pro.exe.config
+E:\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+E:\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+E:\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory System SALE.vbproj.GenerateResource.Cache
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.application
+D:\My Projects\Laboratory System Sale\LabSystem\Laboratory Systems Pro.exe.config
+D:\My Projects\Laboratory System Sale\LabSystem\Laboratory Systems Pro.exe.manifest
+D:\My Projects\Laboratory System Sale\LabSystem\Laboratory Systems Pro.application
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+D:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+D:\My Projects\Laboratory System Sale\LabSystem\Laboratory Systems Pro.exe
+D:\My Projects\Laboratory System Sale\LabSystem\Laboratory Systems Pro.pdb
+D:\My Projects\Laboratory System Sale\LabSystem\Laboratory Systems Pro.xml
+D:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+D:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.Enterprise.Framework.dll
+D:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.Enterprise.InfoStore.dll
+D:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.ReportSource.dll
+D:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.Shared.dll
+D:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.Windows.Forms.dll
+D:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+D:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.Windows.Forms.xml
+D:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.Shared.xml
+E:\My Projects\Laboratory System Sale\LabSystem\Laboratory Systems Pro.exe.config
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory System SALE.vbproj.GenerateResource.Cache
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+E:\My Projects\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.application
+E:\My Projects\Laboratory System Sale\LabSystem\Laboratory Systems Pro.exe.manifest
+E:\My Projects\Laboratory System Sale\LabSystem\Laboratory Systems Pro.application
+E:\My Projects\Laboratory System Sale\LabSystem\Laboratory Systems Pro.exe
+E:\My Projects\Laboratory System Sale\LabSystem\Laboratory Systems Pro.pdb
+E:\My Projects\Laboratory System Sale\LabSystem\Laboratory Systems Pro.xml
+E:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+E:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.Enterprise.Framework.dll
+E:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.Enterprise.InfoStore.dll
+E:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.ReportSource.dll
+E:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.Shared.dll
+E:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.Windows.Forms.dll
+E:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+E:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.Windows.Forms.xml
+E:\My Projects\Laboratory System Sale\LabSystem\CrystalDecisions.Shared.xml
+D:\Laboratory System Sale\LabSystem\Laboratory Systems Pro.exe.config
+D:\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+D:\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+D:\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+D:\Laboratory System Sale\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+D:\Laboratory System Sale\LabSystem\obj\Debug\Laboratory System SALE.vbproj.GenerateResource.Cache
+D:\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+D:\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+D:\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+D:\Laboratory System Sale\LabSystem\obj\Debug\Laboratory Systems Pro.application
+D:\Laboratory System Sale\LabSystem\Laboratory Systems Pro.exe.manifest
+D:\Laboratory System Sale\LabSystem\Laboratory Systems Pro.application
+D:\Laboratory System Sale\LabSystem\Laboratory Systems Pro.exe
+D:\Laboratory System Sale\LabSystem\Laboratory Systems Pro.pdb
+D:\Laboratory System Sale\LabSystem\Laboratory Systems Pro.xml
+D:\Laboratory System Sale\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+D:\Laboratory System Sale\LabSystem\CrystalDecisions.Enterprise.Framework.dll
+D:\Laboratory System Sale\LabSystem\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Laboratory System Sale\LabSystem\CrystalDecisions.ReportSource.dll
+D:\Laboratory System Sale\LabSystem\CrystalDecisions.Shared.dll
+D:\Laboratory System Sale\LabSystem\CrystalDecisions.Windows.Forms.dll
+D:\Laboratory System Sale\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+D:\Laboratory System Sale\LabSystem\CrystalDecisions.Windows.Forms.xml
+D:\Laboratory System Sale\LabSystem\CrystalDecisions.Shared.xml
+Z:\Final Projects\Laboratory System Sale vb2008\LabSystem\Laboratory Systems Pro.exe.config
+Z:\Final Projects\Laboratory System Sale vb2008\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+Z:\Final Projects\Laboratory System Sale vb2008\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+Z:\Final Projects\Laboratory System Sale vb2008\LabSystem\obj\Debug\Laboratory Systems Pro.pdb

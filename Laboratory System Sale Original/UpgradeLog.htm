@@ -1,0 +1,483 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+ <html xmlns:msxsl="urn:schemas-microsoft-com:xslt"><head><meta content="en-us" http-equiv="Content-Language" /><meta content="text/html; charset=utf-16" http-equiv="Content-Type" /><title _locID="ConversionReport0">
+          Migration Report
+        </title><style> 
+                    /* Body style, for the entire document */
+                    body
+                    {
+                        background: #F3F3F4;
+                        color: #1E1E1F;
+                        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+                        padding: 0;
+                        margin: 0;
+                    }
+
+                    /* Header1 style, used for the main title */
+                    h1
+                    {
+                        padding: 10px 0px 10px 10px;
+                        font-size: 21pt;
+                        background-color: #E2E2E2;
+                        border-bottom: 1px #C1C1C2 solid; 
+                        color: #201F20;
+                        margin: 0;
+                        font-weight: normal;
+                    }
+
+                    /* Header2 style, used for "Overview" and other sections */
+                    h2
+                    {
+                        font-size: 18pt;
+                        font-weight: normal;
+                        padding: 15px 0 5px 0;
+                        margin: 0;
+                    }
+
+                    /* Header3 style, used for sub-sections, such as project name */
+                    h3
+                    {
+                        font-weight: normal;
+                        font-size: 15pt;
+                        margin: 0;
+                        padding: 15px 0 5px 0;
+                        background-color: transparent;
+                    }
+
+                    /* Color all hyperlinks one color */
+                    a
+                    {
+                        color: #1382CE;
+                    }
+
+                    /* Table styles */ 
+                    table
+                    {
+                        border-spacing: 0 0;
+                        border-collapse: collapse;
+                        font-size: 10pt;
+                    }
+
+                    table th
+                    {
+                        background: #E7E7E8;
+                        text-align: left;
+                        text-decoration: none;
+                        font-weight: normal;
+                        padding: 3px 6px 3px 6px;
+                    }
+
+                    table td
+                    {
+                        vertical-align: top;
+                        padding: 3px 6px 5px 5px;
+                        margin: 0px;
+                        border: 1px solid #E7E7E8;
+                        background: #F7F7F8;
+                    }
+
+                    /* Local link is a style for hyperlinks that link to file:/// content, there are lots so color them as 'normal' text until the user mouse overs */
+                    .localLink
+                    {
+                        color: #1E1E1F;
+                        background: #EEEEED;
+                        text-decoration: none;
+                    }
+
+                    .localLink:hover
+                    {
+                        color: #1382CE;
+                        background: #FFFF99;
+                        text-decoration: none;
+                    }
+
+                    /* Center text, used in the over views cells that contain message level counts */ 
+                    .textCentered
+                    {
+                        text-align: center;
+                    }
+
+                    /* The message cells in message tables should take up all avaliable space */
+                    .messageCell
+                    {
+                        width: 100%;
+                    }
+
+                    /* Padding around the content after the h1 */ 
+                    #content 
+                    {
+	                    padding: 0px 12px 12px 12px; 
+                    }
+
+                    /* The overview table expands to width, with a max width of 97% */ 
+                    #overview table
+                    {
+                        width: auto;
+                        max-width: 75%; 
+                    }
+
+                    /* The messages tables are always 97% width */
+                    #messages table
+                    {
+                        width: 97%;
+                    }
+
+                    /* All Icons */
+                    .IconSuccessEncoded, .IconInfoEncoded, .IconWarningEncoded, .IconErrorEncoded
+                    {
+                        min-width:18px;
+                        min-height:18px; 
+                        background-repeat:no-repeat;
+                        background-position:center;
+                    }
+
+                    /* Success icon encoded */
+                    .IconSuccessEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconSuccess#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABcElEQVR4Xq2TsUsCURzHv15g8ZJcBWlyiYYgCIWcb9DFRRwMW5TA2c0/QEFwFkxxUQdxVlBwCYWOi6IhWgQhBLHJUCkhLr/BW8S7gvrAg+N+v8/v+x68Z8MGy+XSCyABQAXgBgHGALoASkIIDWSLeLBetdHryMjd5IxQPWT4rn1c/P7+xxp72Cs9m5SZ0Bq2vPnbPFafK2zDvmNHypdC0BPkLlQhxJsCAhQoZwdZU5mwxh720qGo8MzTxTTKZDPCx2HoVzp6lz0Q9tKhyx0kGs8Ny+TkWRKk8lCROwEduhyg9l/6lunOPSfmH3NUH6uQ0KHLAe7JYvJjevm+DAMGJHToKtigE+vwvIidxLamb8IBY9e+C5LiXREkfho3TSd06HJA13/oh6T51MTsfQbHrsMynQ5dDihFjiK8JJAU9AKIWTp76dCVN7HWHrajmUEGvyF9nkbAE6gLIS7kTUyuf2gscLoJrElZo/Mvj+nPz/kLTmfnEwP3tB0AAAAASUVORK5CYII=);
+                    }
+
+                    /* Information icon encoded */
+                    .IconInfoEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconInformation#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHElEQVR4Xs2TsUoDQRRF7wwoziokjZUKadInhdhukR9YP8DMX1hYW+QvdsXa/QHBbcXC7W0CamWTQnclFutceIQJwwaWNLlwm5k5d94M76mmaeCrrmsLYOocY12FcxZFUeozCqKqqgYA8uevv1H6VuPxcwlfk5N92KHBxfFeCSAxxswlYAW/Xr989x/mv9gkhtyMDhcAxgzRsp7flj8B/HF1RsMXq+NZMkopaHe7lbKxQUEIGbKsYNoGn969060hZBkQex/W8oRQwsQaW2o3Ago2SVcJUzAgY3N0lTCZZm+zPS8HB51gMmS1DEYyOz9acKO1D8JWTlafKIMxdhvlfdyT94Vv5h7P8Ky7nQzACmhvKq3zk3PjW9asz9D/1oigecsioooAAAAASUVORK5CYII=);
+                    }
+
+                    /* Warning icon encoded */
+                    .IconWarningEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconWarning#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAx0lEQVR4XpWSMQ7CMAxFf4xAyBMLCxMrO8dhaBcuwdCJS3RJBw7SA/QGTCxdWJgiQYWKXJWKIXHIlyw5lqr34tQgEOdcBsCOx5yZK3hCCKdYXneQkh4pEfqzLfu+wVDSyyzFoJjfz9NB+pAF+eizx2Vruts0k15mPgvS6GYvpVtQhB61IB/dk6AF6fS4Ben0uIX5odtFe8Q/eW1KvFeH4e8khT6+gm5B+t3juyDt7n0jpe+CANTd+oTUjN/U3yVaABnSUjFz/gFq44JaVSCXeQAAAABJRU5ErkJggg==);
+                    }
+
+                    /* Error icon encoded */
+                    .IconErrorEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconError#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABQElEQVR4XqWTvUoEQRCE6wYPZUA80AfwAQz23uCMjA7MDRQEIzPBVEyNTQUFIw00vcQTTMzuAh/AxEQQT8HF/3G/oGGnEUGuoNnd6qoZuqltyKEsyzVJq5I6rnUp6SjGeGhESikzzlc1eL7opfuVbrqbU1Zw9NCgtQMaZpY0eNnaaL2fHusvTK5vKu7sjSS1Y4y3QUA6K3e3Mau5UFDyMP7tYF9o8cAHZv68vipoIJg971PZIZ5HiwdvYGGvFVFHmGmZ2MxwmQYPXubPl9Up0tfoMQGetXd6mRbvhBw+boZ6WF7Mbv1+GsHRk0fQmPAH1GfmZirbCfDJ61tw3Px8/8pZsPAG4jlVhcPgZ7adwNWBB68lkRQWFiTgFlbnLY3DGGM7izIJIyT/jjIvEJw6fdJTc6krDzh6aMwMP9bvDH4ADSsa9uSWVJkAAAAASUVORK5CYII=);
+                    }
+                 </style><script type="text/javascript" language="javascript"> 
+          
+            // Startup 
+            // Hook up the the loaded event for the document/window, to linkify the document content
+            var startupFunction = function() { linkifyElement("messages"); };
+            
+            if(window.attachEvent)
+            {
+              window.attachEvent('onload', startupFunction);
+            }
+            else if (window.addEventListener) 
+            {
+              window.addEventListener('load', startupFunction, false);
+            }
+            else 
+            {
+              document.addEventListener('load', startupFunction, false);
+            } 
+            
+            // Toggles the visibility of table rows with the specified name 
+            function toggleTableRowsByName(name)
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  if(!!currentName && currentName.indexOf(name) == 0)
+                  {
+                      var isVisible = allRows[i].style.display == ''; 
+                      isVisible ? allRows[i].style.display = 'none' : allRows[i].style.display = '';
+                  }
+               }
+            }
+            
+            function scrollToFirstVisibleRow(name) 
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  var isVisible = allRows[i].style.display == ''; 
+                  if(!!currentName && currentName.indexOf(name) == 0 && isVisible)
+                  {
+                     allRows[i].scrollIntoView(true); 
+                     return true; 
+                  }
+               }
+               
+               return false;
+            }
+            
+            // Linkifies the specified text content, replaces candidate links with html links 
+            function linkify(text)
+            {
+                 if(!text || 0 === text.length)
+                 {
+                     return text; 
+                 }
+
+                 // Find http, https and ftp links and replace them with hyper links 
+                 var urlLink = /(http|https|ftp)\:\/\/[a-zA-Z0-9\-\.]+(:[a-zA-Z0-9]*)?\/?([a-zA-Z0-9\-\._\?\,\/\\\+&%\$#\=~;\{\}])*/gi;
+                 
+                 return text.replace(urlLink, '<a href="$&">$&</a>') ;
+            }
+            
+            // Linkifies the specified element by ID
+            function linkifyElement(id)
+            {
+                var element = document.getElementById(id);
+                if(!!element)
+                {
+                  element.innerHTML = linkify(element.innerHTML); 
+                }
+            }
+            
+            function ToggleMessageVisibility(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              toggleTableRowsByName("MessageRowClass" + projectName);
+              toggleTableRowsByName('MessageRowHeaderShow' + projectName);
+              toggleTableRowsByName('MessageRowHeaderHide' + projectName); 
+            }
+            
+            function ScrollToFirstVisibleMessage(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              // First try the 'Show messages' row
+              if(!scrollToFirstVisibleRow('MessageRowHeaderShow' + projectName))
+              {
+                // Failed to find a visible row for 'Show messages', try an actual message row 
+                scrollToFirstVisibleRow('MessageRowClass' + projectName); 
+              }
+            }
+           </script></head><body><h1 _locID="ConversionReport">
+          Migration Report - LabSystemSale</h1><div id="content"><h2 _locID="OverviewTitle">Overview</h2><div id="overview"><table><tr><th></th><th _locID="ProjectTableHeader">Project</th><th _locID="PathTableHeader">Path</th><th _locID="ErrorsTableHeader">Errors</th><th _locID="WarningsTableHeader">Warnings</th><th _locID="MessagesTableHeader">Messages</th></tr><tr><td class="IconWarningEncoded" /><td><strong><a href="#Laboratory System SALE">Laboratory System SALE</a></strong></td><td>LabSystem\Laboratory System SALE.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#Laboratory System SALEWarning">2</a></td><td class="textCentered"><a href="#" onclick="ScrollToFirstVisibleMessage('Laboratory System SALE'); return false;">202</a></td></tr><tr><td class="IconWarningEncoded" /><td><strong><a href="#Solution"><span _locID="OverviewSolutionSpan">Solution</span></a></strong></td><td>LabSystemSale.sln</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#SolutionWarning">1</a></td><td class="textCentered"><a href="#" onclick="ScrollToFirstVisibleMessage('Solution'); return false;">2</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Software Setup">Software Setup</a></strong></td><td>Lab Software Setup\Lab Software Setup.vdproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr></table></div><h2 _locID="SolutionAndProjectsTitle">Solution and projects</h2><div id="messages"><a name="Laboratory System SALE" /><h3>Laboratory System SALE</h3><table><tr id="Laboratory System SALEHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="WarningRowClassLaboratory System SALE"><td class="IconWarningEncoded"><a name="Laboratory System SALEWarning" /></td><td class="messageCell"><strong>LabSystem\Laboratory System SALE.vbproj:
+        </strong><span>Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)</span></td></tr><tr name="WarningRowClassLaboratory System SALE"><td class="IconWarningEncoded"><a name="Laboratory System SALEWarning" /></td><td class="messageCell"><strong>LabSystem\Laboratory System SALE.vbproj:
+        </strong><span>The ExcludePermissions property is deprecated. The permission set requested by the application has been set to the permissions defined in Internet or Local Intranet zone. To continue using a custom Permission Set, define your custom permission set in the Security Page of the Project Designer.</span></td></tr><tr name="MessageRowHeaderShowLaboratory System SALE"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="ShowAdditionalMessages" href="#" name="Laboratory System SALEMessage" onclick="ToggleMessageVisibility('Laboratory System SALE'); return false;">
+          Show 202 additional messages
+        </a></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Laboratory System SALE.vbproj:
+        </strong><span>Project file successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Laboratory System SALE.vbproj</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Laboratory System SALE.vbproj.user:
+        </strong><span>Project user file successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Laboratory System SALE.vbproj.user</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\AboutBox1.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\AboutBox1.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\AboutBox1.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\AboutBox1.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\ApplicationEvents.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\ApplicationEvents.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Form1.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Form1.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Form1.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Form1.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmBilling.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmBilling.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmBilling.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmBilling.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmCreateDB.designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmCreateDB.designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmCreateDB.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmCreateDB.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmCrossMatch.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmCrossMatch.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmCrossMatch.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmCrossMatch.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmDonorProfile.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmDonorProfile.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmDonorProfile.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmDonorProfile.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmLoginInput.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmLoginInput.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmLoginInput.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmLoginInput.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmPrintDialog.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmPrintDialog.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmPrintDialog.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmPrintDialog.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmAccReports.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmAccReports.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmAccReports.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmAccReports.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmAccStatment.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmAccStatment.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmAccStatment.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmAccStatment.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmBillReport.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmBillReport.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmBillReport.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmBillReport.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmCurrentStat.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmCurrentStat.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmCurrentStat.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmCurrentStat.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmDocCases.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmDocCases.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmDocCases.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmDocCases.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmEdit.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmEdit.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmEdit.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmEdit.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmDailyCases.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmDailyCases.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmDailyCases.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmDailyCases.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmDailyStat.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmDailyStat.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmDailyStat.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmDailyStat.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmJournal.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmJournal.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmJournal.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmJournal.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmLabInfo.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmLabInfo.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmLabInfo.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmLabInfo.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmLedgers.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmLedgers.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmLedgers.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmLedgers.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmNameCorrection.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmNameCorrection.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmNameCorrection.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmNameCorrection.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmNewAcc.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmNewAcc.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmNewAcc.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmNewAcc.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmPrintRateList.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmPrintRateList.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmPrintRateList.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmPrintRateList.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmPrintSlip.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmPrintSlip.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmPrintSlip.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmPrintSlip.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmRateInquiry.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmRateInquiry.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmRateInquiry.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmRateInquiry.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmRates.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmRates.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmRates.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmRates.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmReports.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmReports.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmReports.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmReports.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmServer.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmServer.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmServer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmServer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmSysUser.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmSysUser.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmSysUser.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmSysUser.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmCollectionPoint.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmCollectionPoint.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmCollectionPoint.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmCollectionPoint.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmMain.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmMain.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmMain.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmMain.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmRefer.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmRefer.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmRefer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmRefer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmTestCode.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmTestCode.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmTestCode.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmTestCode.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmPatient.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmPatient.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmPatient.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmPatient.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmTests.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmTests.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmTests.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmTests.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmViewTransactions.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmViewTransactions.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmViewTransactions.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmViewTransactions.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmVisitors.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmVisitors.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmVisitors.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmVisitors.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\mdlGeneral.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\mdlGeneral.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\My Project\AssemblyInfo.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\My Project\AssemblyInfo.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\My Project\Application.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\My Project\Application.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\My Project\Resources.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\My Project\Resources.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\My Project\Settings.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\My Project\Settings.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\SplashScreen.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\SplashScreen.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\SplashScreen.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\SplashScreen.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Status.Designer.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Status.Designer.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Status.vb:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Status.vb</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\My Project\Application.myapp:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\My Project\Application.myapp</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\My Project\Settings.settings:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\My Project\Settings.settings</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\book_addressHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\book_addressHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\ProtectFormHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\ProtectFormHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Book_StackOfReportsHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Book_StackOfReportsHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\CalculatorHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\CalculatorHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Book_openHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Book_openHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\OrganizerHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\OrganizerHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\SaveFormDesignHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\SaveFormDesignHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\book_reportHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\book_reportHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\saveHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\saveHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\FindHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\FindHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\CutHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\CutHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\data_add.ico:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\data_add.ico</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\data_edit.ico:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\data_edit.ico</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\StopHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\StopHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\PrintPreviewHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\PrintPreviewHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\My Project\app.manifest:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\My Project\app.manifest</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Filter2HS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Filter2HS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Book_angleHS.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Book_angleHS.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\app.config:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\app.config</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\comment_edit.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\comment_edit.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\comment_remove.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\comment_remove.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\application_remove.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\application_remove.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\database_accept.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\database_accept.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Files-Folder-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Files-Folder-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Download-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Download-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Electronic-Billing-Machine-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Electronic-Billing-Machine-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Cashbox-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Cashbox-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\cashbox.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\cashbox.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Keys-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Keys-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Content-Reorder-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Content-Reorder-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\exit-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\exit-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Gnome-Application-Exit-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Gnome-Application-Exit-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\folder_add.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\folder_add.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\folder_add1.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\folder_add1.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\application_lock.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\application_lock.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\database_remove.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\database_remove.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Head-physician-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Head-physician-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Contact-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Contact-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Lab Wallpaper 2.jpg:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Lab Wallpaper 2.jpg</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\health_wall_paper.jpg:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\health_wall_paper.jpg</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\71_1thermo_lab_6753_w1.jpg:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\71_1thermo_lab_6753_w1.jpg</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\login.jpeg:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\login.jpeg</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\money-bag.jpg:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\money-bag.jpg</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\login_img1.gif:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\login_img1.gif</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\treatment_256.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\treatment_256.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Locked-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Locked-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Report-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Report-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Printer-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Printer-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\weight.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\weight.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Money_Bag_64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Money_Bag_64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Money-64x64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Money-64x64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Money-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Money-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Medical-invoice-information-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Medical-invoice-information-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Survey-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Survey-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\People-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\People-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Wooden-Notepad-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Wooden-Notepad-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Wooden-Folder-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Wooden-Folder-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Stomatologist-64.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Stomatologist-64.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\PatientFile.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\PatientFile.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\PatientFile2.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\PatientFile2.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\PatientFile1.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\PatientFile1.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\PatientData.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\PatientData.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\urology_2561.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\urology_2561.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\urology_1281.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\urology_1281.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\scanner_1281.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\scanner_1281.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\scanner_2561.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\scanner_2561.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Medical.PNG:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Medical.PNG</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\users.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\users.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\page_process.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\page_process.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\search.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\search.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\remove.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\remove.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\microscope_128.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\microscope_128.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\treatment_128.png:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\treatment_128.png</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Resources\Laboratory.ico:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Resources\Laboratory.ico</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\AboutBox1.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\AboutBox1.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Form1.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Form1.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmBilling.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmBilling.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmCreateDB.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmCreateDB.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmCrossMatch.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmCrossMatch.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmDonorProfile.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmDonorProfile.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmLoginInput.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmLoginInput.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmPrintDialog.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmPrintDialog.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmAccReports.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmAccReports.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmAccStatment.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmAccStatment.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmBillReport.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmBillReport.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmCurrentStat.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmCurrentStat.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmDocCases.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmDocCases.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmEdit.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmEdit.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmDailyCases.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmDailyCases.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmDailyStat.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmDailyStat.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmJournal.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmJournal.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmLabInfo.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmLabInfo.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmLedgers.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmLedgers.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmNameCorrection.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmNameCorrection.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmNewAcc.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmNewAcc.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmPrintRateList.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmPrintRateList.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmPrintSlip.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmPrintSlip.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmRateInquiry.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmRateInquiry.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmRates.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmRates.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmReports.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmReports.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmServer.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmServer.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmSysUser.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmSysUser.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmCollectionPoint.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmCollectionPoint.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmMain.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmMain.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmRefer.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmRefer.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmTestCode.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmTestCode.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmPatient.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmPatient.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmTests.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmTests.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmViewTransactions.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmViewTransactions.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\frmVisitors.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\frmVisitors.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\My Project\licenses.licx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\My Project\licenses.licx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\My Project\Resources.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\My Project\Resources.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\SplashScreen.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\SplashScreen.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Status.resx:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystem\Status.resx</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\Laboratory System SALE.vbproj:
+        </strong><span>Project migrated successfully</span></td></tr><tr name="MessageRowClassLaboratory System SALE" style="display: none"><td class="IconInfoEncoded"><a name="Laboratory System SALEMessage" /></td><td class="messageCell"><strong>LabSystem\app.config:
+        </strong><span>File migrated successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.</span></td></tr><tr style="display: none" name="MessageRowHeaderHideLaboratory System SALE"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="HideAdditionalMessages" href="#" name="Laboratory System SALEMessage" onclick="ToggleMessageVisibility('Laboratory System SALE'); return false;">
+          Hide 202 additional messages
+        </a></td></tr></table><a name="Solution" /><h3 _locID="ProjectDisplayNameHeader">Solution</h3><table><tr id="SolutionHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="WarningRowClassSolution"><td class="IconWarningEncoded"><a name="SolutionWarning" /></td><td class="messageCell"><strong>LabSystemSale.sln:
+        </strong><span>Visual Studio needs to make non-functional changes to this project in order to enable the project to open in released versions of Visual Studio newer than Visual Studio 2010 SP1 without impacting project behavior.</span></td></tr><tr name="MessageRowHeaderShowSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="ShowAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Show 2 additional messages
+        </a></td></tr><tr name="MessageRowClassSolution" style="display: none"><td class="IconInfoEncoded"><a name="SolutionMessage" /></td><td class="messageCell"><strong>LabSystemSale.sln:
+        </strong><span>File successfully backed up as E:\Final Projects\Laboratory System Sale Original\Backup\LabSystemSale.sln</span></td></tr><tr name="MessageRowClassSolution" style="display: none"><td class="IconInfoEncoded"><a name="SolutionMessage" /></td><td class="messageCell"><strong>LabSystemSale.sln:
+        </strong><span>Solution migrated successfully</span></td></tr><tr style="display: none" name="MessageRowHeaderHideSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="HideAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Hide 2 additional messages
+        </a></td></tr></table><a name="Software Setup" /><h3>Software Setup</h3><table><tr id="Software SetupHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Software Setup logged no messages.
+                  </td></tr></table></div></div></body></html>

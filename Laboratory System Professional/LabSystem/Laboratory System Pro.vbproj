@@ -1,0 +1,1228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{85330DE4-239D-44F3-9FAF-D1EF32D50830}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Business_Solutions.My.MyApplication</StartupObject>
+    <RootNamespace>Business_Solutions</RootNamespace>
+    <AssemblyName>Laboratory Systems Pro</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>37952B20517D322EF4E4DCE9D9684474014F9218</ManifestCertificateThumbprint>
+    <ManifestKeyFile>LabSystem_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <TargetZone>LocalIntranet</TargetZone>
+    <ExcludedPermissions>System.Security.Permissions.FileIOPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</ExcludedPermissions>
+    <ApplicationIcon>Resources\Laboratory.ico</ApplicationIcon>
+    <PublishUrl>E:\LabSetup\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>\\LabSetup\e%24\\Installer\</InstallUrl>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Laboratory Systems Pro.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>.\</OutputPath>
+    <DocumentationFile>Laboratory Systems Pro.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>False</Private>
+      <HintPath>C:\Program Files (x86)\Business Objects\Common\2.8\managed\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\CrystalDecisions.ReportSource\10.5.3700.0__692fbea5521e1304\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>False</Private>
+      <HintPath>C:\Program Files (x86)\Business Objects\Common\2.8\managed\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>False</Private>
+      <HintPath>C:\Program Files (x86)\Business Objects\Common\2.8\managed\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Smo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="CrystalDecisions" />
+    <Import Include="CrystalDecisions.CrystalReports.ViewerObjectModel" />
+    <Import Include="CrystalDecisions.Windows.Forms" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.Odbc" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.Designer.vb">
+      <DependentUpon>AboutBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BioChemFull.Designer.vb">
+      <DependentUpon>BioChemFull.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BioChemFull.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BioChemistry.Designer.vb">
+      <DependentUpon>BioChemistry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BioChemistry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Biopsy.Designer.vb">
+      <DependentUpon>Biopsy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Biopsy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bonemarrow.Designer.vb">
+      <DependentUpon>Bonemarrow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bonemarrow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\cModule.vb" />
+    <Compile Include="Controls\DetailControl.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\MasterControl.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CopyBiopsy.Designer.vb">
+      <DependentUpon>CopyBiopsy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CopyBiopsy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CopyCytology.Designer.vb">
+      <DependentUpon>CopyCytology.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CopyCytology.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CultureReportViewer.Designer.vb">
+      <DependentUpon>CultureReportViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CultureReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cytology.Designer.vb">
+      <DependentUpon>Cytology.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cytology.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatabaseParameters.Designer.vb">
+      <DependentUpon>DatabaseParameters.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseParameters.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeList.Designer.vb">
+      <DependentUpon>EmployeeList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payroll.Designer.vb">
+      <DependentUpon>Payroll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Payroll.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FiscalPeriodSelect.Designer.vb">
+      <DependentUpon>FiscalPeriodSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FiscalPeriodSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FiscalYearCreate.Designer.vb">
+      <DependentUpon>FiscalYearCreate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FiscalYearCreate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MultipleStone.Designer.vb">
+      <DependentUpon>MultipleStone.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MultipleStone.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PatientDashboard.Designer.vb">
+      <DependentUpon>PatientDashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PatientDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CasesDashboard.Designer.vb">
+      <DependentUpon>CasesDashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CasesDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DonorReport.Designer.vb">
+      <DependentUpon>DonorReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DonorReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileList.Designer.vb">
+      <DependentUpon>FileList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FileList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountReports.Designer.vb">
+      <DependentUpon>AccountReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AccountReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountStatment.Designer.vb">
+      <DependentUpon>AccountStatment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AccountStatment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackupData.designer.vb">
+      <DependentUpon>BackupData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BackupData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CpBilling.Designer.vb">
+      <DependentUpon>CpBilling.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CpBilling.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BillReport.Designer.vb">
+      <DependentUpon>BillReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BillReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Companies.Designer.vb">
+      <DependentUpon>Companies.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Companies.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateDB.designer.vb">
+      <DependentUpon>CreateDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CreateDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrossMatch.Designer.vb">
+      <DependentUpon>CrossMatch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CrossMatch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocCases.Designer.vb">
+      <DependentUpon>DocCases.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DocCases.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DonorProfile.Designer.vb">
+      <DependentUpon>DonorProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DonorProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditPatient.Designer.vb">
+      <DependentUpon>EditPatient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditPatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DailyCases.Designer.vb">
+      <DependentUpon>DailyCases.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DailyCases.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DailyStat.Designer.vb">
+      <DependentUpon>DailyStat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DailyStat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocList.designer.vb">
+      <DependentUpon>DocList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DocList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalaryForm.Designer.vb">
+      <DependentUpon>SalaryForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SalaryForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalaryReports.Designer.vb">
+      <DependentUpon>SalaryReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SalaryReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemPrinter.designer.vb">
+      <DependentUpon>SystemPrinter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SystemPrinter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaxPercentAdj.designer.vb">
+      <DependentUpon>TaxPercentAdj.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TaxPercentAdj.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistopathologyReport.Designer.vb">
+      <DependentUpon>HistopathologyReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HistopathologyReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hormones.Designer.vb">
+      <DependentUpon>Hormones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hormones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Microbiology.Designer.vb">
+      <DependentUpon>Microbiology.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Microbiology.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Microscopic.Designer.vb">
+      <DependentUpon>Microscopic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Microscopic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Miscellaneous.Designer.vb">
+      <DependentUpon>Miscellaneous.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Miscellaneous.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiscParameters.Designer.vb">
+      <DependentUpon>MiscParameters.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MiscParameters.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoGrowth.Designer.vb">
+      <DependentUpon>NoGrowth.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NoGrowth.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PayDate.Designer.vb">
+      <DependentUpon>PayDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PayDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PettyAccountList.Designer.vb">
+      <DependentUpon>PettyAccountList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PettyAccountList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PettyAccounts.Designer.vb">
+      <DependentUpon>PettyAccounts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PettyAccounts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PettyJournal.Designer.vb">
+      <DependentUpon>PettyJournal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PettyJournal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PettyJournalView.Designer.vb">
+      <DependentUpon>PettyJournalView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PettyJournalView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PettyLedgers.Designer.vb">
+      <DependentUpon>PettyLedgers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PettyLedgers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintReport.Designer.vb">
+      <DependentUpon>PrintReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemarkCodeList.designer.vb">
+      <DependentUpon>RemarkCodeList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RemarkCodeList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportCodeList.Designer.vb">
+      <DependentUpon>ReportCodeList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportCodeList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportFile.Designer.vb">
+      <DependentUpon>ReportFile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportFile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportPreviewForm.Designer.vb">
+      <DependentUpon>ReportPreviewForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportPreviewForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportRemarksList.Designer.vb">
+      <DependentUpon>ReportRemarksList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportRemarksList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputBox.Designer.vb">
+      <DependentUpon>InputBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InputBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory.Designer.vb">
+      <DependentUpon>Inventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryIssue.Designer.vb">
+      <DependentUpon>InventoryIssue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryIssue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryTransactions.Designer.vb">
+      <DependentUpon>InventoryTransactions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryTransactions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountJournalBook.Designer.vb">
+      <DependentUpon>AccountJournalBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AccountJournalBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LabInfo.Designer.vb">
+      <DependentUpon>LabInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LabInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountLedgers.Designer.vb">
+      <DependentUpon>AccountLedgers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AccountLedgers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginInput.Designer.vb">
+      <DependentUpon>LoginInput.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginInput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainReception.Designer.vb">
+      <DependentUpon>MainReception.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainReception.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainReports.Designer.vb">
+      <DependentUpon>MainReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maintenance.Designer.vb">
+      <DependentUpon>Maintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Maintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NameCorrection.Designer.vb">
+      <DependentUpon>NameCorrection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NameCorrection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountHeads.Designer.vb">
+      <DependentUpon>AccountHeads.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AccountHeads.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BloodCp.Designer.vb">
+      <DependentUpon>BloodCp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BloodCp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportsList.Designer.vb">
+      <DependentUpon>ReportsList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportsList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PatientReport.Designer.vb">
+      <DependentUpon>PatientReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PatientReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintDialog.Designer.vb">
+      <DependentUpon>PrintDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintRateList.Designer.vb">
+      <DependentUpon>PrintRateList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintRateList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintSlip.Designer.vb">
+      <DependentUpon>PrintSlip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintSlip.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RateInquiry.Designer.vb">
+      <DependentUpon>RateInquiry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RateInquiry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestsRates.Designer.vb">
+      <DependentUpon>TestsRates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TestsRates.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatReports.Designer.vb">
+      <DependentUpon>StatReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StatReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportFormat.Designer.vb">
+      <DependentUpon>ReportFormat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportFormat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServerParameters.Designer.vb">
+      <DependentUpon>ServerParameters.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ServerParameters.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemUser.Designer.vb">
+      <DependentUpon>SystemUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SystemUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CollectionPoint.Designer.vb">
+      <DependentUpon>CollectionPoint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CollectionPoint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReferenceList.Designer.vb">
+      <DependentUpon>ReferenceList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReferenceList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestCode.Designer.vb">
+      <DependentUpon>TestCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TestCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient.Designer.vb">
+      <DependentUpon>Patient.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tests.Designer.vb">
+      <DependentUpon>Tests.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tests.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestStatistics.Designer.vb">
+      <DependentUpon>TestStatistics.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TestStatistics.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrineDr.Designer.vb">
+      <DependentUpon>UrineDr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UrineDr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountJournalView.Designer.vb">
+      <DependentUpon>AccountJournalView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AccountJournalView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visitors.Designer.vb">
+      <DependentUpon>Visitors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Visitors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupDataGridView.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="mdlGeneral.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ReferCode.designer.vb">
+      <DependentUpon>ReferCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReferCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountLists.designer.vb">
+      <DependentUpon>AccountLists.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AccountLists.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Status.Designer.vb">
+      <DependentUpon>Status.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Status.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BioChemFull.resx">
+      <DependentUpon>BioChemFull.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BioChemistry.resx">
+      <DependentUpon>BioChemistry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biopsy.resx">
+      <DependentUpon>Biopsy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bonemarrow.resx">
+      <DependentUpon>Bonemarrow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MasterControl.resx">
+      <DependentUpon>MasterControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CopyBiopsy.resx">
+      <DependentUpon>CopyBiopsy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CopyCytology.resx">
+      <DependentUpon>CopyCytology.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CultureReportViewer.resx">
+      <DependentUpon>CultureReportViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cytology.resx">
+      <DependentUpon>Cytology.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatabaseParameters.resx">
+      <DependentUpon>DatabaseParameters.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeList.resx">
+      <DependentUpon>EmployeeList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payroll.resx">
+      <DependentUpon>Payroll.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FiscalPeriodSelect.resx">
+      <DependentUpon>FiscalPeriodSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FiscalYearCreate.resx">
+      <DependentUpon>FiscalYearCreate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultipleStone.resx">
+      <DependentUpon>MultipleStone.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PatientDashboard.resx">
+      <DependentUpon>PatientDashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CasesDashboard.resx">
+      <DependentUpon>CasesDashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonorReport.resx">
+      <DependentUpon>DonorReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileList.resx">
+      <DependentUpon>FileList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountReports.resx">
+      <DependentUpon>AccountReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountStatment.resx">
+      <DependentUpon>AccountStatment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackupData.resx">
+      <DependentUpon>BackupData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CpBilling.resx">
+      <DependentUpon>CpBilling.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillReport.resx">
+      <DependentUpon>BillReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Companies.resx">
+      <DependentUpon>Companies.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateDB.resx">
+      <DependentUpon>CreateDB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrossMatch.resx">
+      <DependentUpon>CrossMatch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocCases.resx">
+      <DependentUpon>DocCases.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonorProfile.resx">
+      <DependentUpon>DonorProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditPatient.resx">
+      <DependentUpon>EditPatient.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyCases.resx">
+      <DependentUpon>DailyCases.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyStat.resx">
+      <DependentUpon>DailyStat.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocList.resx">
+      <DependentUpon>DocList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalaryForm.resx">
+      <DependentUpon>SalaryForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalaryReports.resx">
+      <DependentUpon>SalaryReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemPrinter.resx">
+      <DependentUpon>SystemPrinter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaxPercentAdj.resx">
+      <DependentUpon>TaxPercentAdj.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistopathologyReport.resx">
+      <DependentUpon>HistopathologyReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hormones.resx">
+      <DependentUpon>Hormones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Microbiology.resx">
+      <DependentUpon>Microbiology.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Microscopic.resx">
+      <DependentUpon>Microscopic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Miscellaneous.resx">
+      <DependentUpon>Miscellaneous.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiscParameters.resx">
+      <DependentUpon>MiscParameters.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoGrowth.resx">
+      <DependentUpon>NoGrowth.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PayDate.resx">
+      <DependentUpon>PayDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PettyAccountList.resx">
+      <DependentUpon>PettyAccountList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PettyAccounts.resx">
+      <DependentUpon>PettyAccounts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PettyJournal.resx">
+      <DependentUpon>PettyJournal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PettyJournalView.resx">
+      <DependentUpon>PettyJournalView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PettyLedgers.resx">
+      <DependentUpon>PettyLedgers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintReport.resx">
+      <DependentUpon>PrintReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemarkCodeList.resx">
+      <DependentUpon>RemarkCodeList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCodeList.resx">
+      <DependentUpon>ReportCodeList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportFile.resx">
+      <DependentUpon>ReportFile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportPreviewForm.resx">
+      <DependentUpon>ReportPreviewForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportRemarksList.resx">
+      <DependentUpon>ReportRemarksList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputBox.resx">
+      <DependentUpon>InputBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory.resx">
+      <DependentUpon>Inventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventoryIssue.resx">
+      <DependentUpon>InventoryIssue.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventoryTransactions.resx">
+      <DependentUpon>InventoryTransactions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountJournalBook.resx">
+      <DependentUpon>AccountJournalBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LabInfo.resx">
+      <DependentUpon>LabInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountLedgers.resx">
+      <DependentUpon>AccountLedgers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginInput.resx">
+      <DependentUpon>LoginInput.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainReception.resx">
+      <DependentUpon>MainReception.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainReports.resx">
+      <DependentUpon>MainReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maintenance.resx">
+      <DependentUpon>Maintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NameCorrection.resx">
+      <DependentUpon>NameCorrection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountHeads.resx">
+      <DependentUpon>AccountHeads.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BloodCp.resx">
+      <DependentUpon>BloodCp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportsList.resx">
+      <DependentUpon>ReportsList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PatientReport.resx">
+      <DependentUpon>PatientReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintDialog.resx">
+      <DependentUpon>PrintDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintRateList.resx">
+      <DependentUpon>PrintRateList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintSlip.resx">
+      <DependentUpon>PrintSlip.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RateInquiry.resx">
+      <DependentUpon>RateInquiry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestsRates.resx">
+      <DependentUpon>TestsRates.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatReports.resx">
+      <DependentUpon>StatReports.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportFormat.resx">
+      <DependentUpon>ReportFormat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServerParameters.resx">
+      <DependentUpon>ServerParameters.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemUser.resx">
+      <DependentUpon>SystemUser.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CollectionPoint.resx">
+      <DependentUpon>CollectionPoint.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReferenceList.resx">
+      <DependentUpon>ReferenceList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestCode.resx">
+      <DependentUpon>TestCode.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient.resx">
+      <DependentUpon>Patient.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tests.resx">
+      <DependentUpon>Tests.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestStatistics.resx">
+      <DependentUpon>TestStatistics.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrineDr.resx">
+      <DependentUpon>UrineDr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountJournalView.resx">
+      <DependentUpon>AccountJournalView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visitors.resx">
+      <DependentUpon>Visitors.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReferCode.resx">
+      <DependentUpon>ReferCode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountLists.resx">
+      <DependentUpon>AccountLists.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Status.resx">
+      <DependentUpon>Status.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_addressHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProtectFormHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book_StackOfReportsHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CalculatorHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book_openHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrganizerHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveFormDesignHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_reportHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saveHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FindHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CutHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_edit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StopHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PrintPreviewHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="Resources\Filter2HS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book_angleHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\comment_edit.png" />
+    <None Include="Resources\comment_remove.png" />
+    <None Include="Resources\application_remove.png" />
+    <None Include="Resources\database_accept.png" />
+    <None Include="Resources\Files-Folder-64.png" />
+    <None Include="Resources\Download-64.png" />
+    <None Include="Resources\Electronic-Billing-Machine-64.png" />
+    <None Include="Resources\Cashbox-64.png" />
+    <None Include="Resources\cashbox.png" />
+    <None Include="Resources\Keys-64.png" />
+    <None Include="Resources\Content-Reorder-64.png" />
+    <None Include="Resources\exit-64.png" />
+    <None Include="Resources\Gnome-Application-Exit-64.png" />
+    <None Include="Resources\folder_add.png" />
+    <None Include="Resources\folder_add1.png" />
+    <None Include="Resources\application_lock.png" />
+    <None Include="Resources\database_remove.png" />
+    <None Include="Resources\Head-physician-64.png" />
+    <None Include="Resources\Contact-64.png" />
+    <None Include="Resources\Lab Wallpaper 2.jpg" />
+    <None Include="Resources\health_wall_paper.jpg" />
+    <None Include="Resources\71_1thermo_lab_6753_w1.jpg" />
+    <None Include="Resources\Add record.gif" />
+    <None Include="Resources\Add record1.gif" />
+    <None Include="Resources\Add record2.gif" />
+    <None Include="Resources\Edit.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\erase_db.gif" />
+    <None Include="Resources\erase_db1.gif" />
+    <None Include="Resources\Actions-application-exit-icon.png" />
+    <None Include="Resources\Edit-48.png" />
+    <None Include="Resources\edit_pencil_32.png" />
+    <None Include="Resources\edit_pencil.png" />
+    <None Include="Resources\if_edit-find-replace.png" />
+    <None Include="Resources\if_edit_173002.png" />
+    <None Include="Resources\Content-Reorder-32.png" />
+    <None Include="Resources\Content-Reorder-24.png" />
+    <None Include="Resources\Database-64.png" />
+    <None Include="Resources\1480383006_xfce-system-exit.png" />
+    <None Include="Resources\Check-641.png" />
+    <None Include="Resources\if_edit_1730021.png" />
+    <None Include="Resources\if_icon-edit_3147241.png" />
+    <None Include="Resources\Analysis-64.png" />
+    <None Include="Resources\Documents-64.png" />
+    <None Include="Resources\Calendar-icon-24.png" />
+    <None Include="Resources\Calendar-icon-18.png" />
+    <None Include="Resources\application_remove1.png" />
+    <Content Include="Resources\Laboratory.ico" />
+    <None Include="Resources\page_process1.png" />
+    <None Include="Resources\Wooden-Box-48.png" />
+    <None Include="Resources\Users-64.png" />
+    <None Include="Resources\Money_Calculator_64.png" />
+    <None Include="Resources\rebuild-64.png" />
+    <None Include="Resources\Money-24.png" />
+    <None Include="Resources\Money-64x641.png" />
+    <None Include="Resources\NewDocumentHS.png" />
+    <None Include="Resources\PrintHS.png" />
+    <None Include="Resources\openHS.png" />
+    <None Include="Resources\print-icon.png" />
+    <None Include="Resources\remove_field.gif" />
+    <None Include="Resources\Save.png" />
+    <None Include="Resources\login.jpeg" />
+    <None Include="Resources\login_img1.gif" />
+    <None Include="Resources\treatment_256.png" />
+    <None Include="Resources\Locked-64.png" />
+    <None Include="Resources\Report-64.png" />
+    <None Include="Resources\Printer-64.png" />
+    <None Include="Resources\weight.png" />
+    <None Include="Resources\Money_Bag_64.png" />
+    <None Include="Resources\Money-64x64.png" />
+    <None Include="Resources\Money-64.png" />
+    <None Include="Resources\Medical-invoice-information-64.png" />
+    <None Include="Resources\Survey-64.png" />
+    <None Include="Resources\People-64.png" />
+    <None Include="Resources\Wooden-Notepad-64.png" />
+    <None Include="Resources\Wooden-Folder-64.png" />
+    <None Include="Resources\Stomatologist-64.png" />
+    <None Include="Resources\PatientFile.png" />
+    <None Include="Resources\PatientFile2.png" />
+    <None Include="Resources\PatientFile1.png" />
+    <None Include="Resources\PatientData.png" />
+    <None Include="Resources\urology_2561.png" />
+    <None Include="Resources\urology_1281.png" />
+    <None Include="Resources\scanner_1281.png" />
+    <None Include="Resources\scanner_2561.png" />
+    <None Include="Resources\Medical.PNG" />
+    <None Include="Resources\users.png" />
+    <None Include="Resources\page_process.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\remove.png" />
+    <None Include="Resources\microscope_128.png" />
+    <None Include="Resources\treatment_128.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

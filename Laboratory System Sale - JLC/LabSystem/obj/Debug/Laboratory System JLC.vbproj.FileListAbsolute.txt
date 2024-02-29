@@ -1,0 +1,412 @@
+I:\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.config
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyStatSpc.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_PCR.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_ST.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPCRDailyCases.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPCREdit.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCopyRecord.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmReportsSpc.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSTDailyCases.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSTEdit.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewOldCases.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory System JLC.vbproj.GenerateResource.Cache
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.application
+I:\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.manifest
+I:\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.application
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+I:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+I:\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe
+I:\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.pdb
+I:\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.xml
+I:\Laboratory System Sale - JLC\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+I:\Laboratory System Sale - JLC\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+E:\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.config
+E:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+E:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+E:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmBackupData.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyStatSpc.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmGXDailyCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmGXEdit.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_GX.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_PCR.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_ST.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPCRDailyCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPCREdit.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCopyRecord.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmReportsSpc.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSTDailyCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSTEdit.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewGXCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewOldCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewPCRCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewSTCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory System JLC.vbproj.GenerateResource.Cache
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.application
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.config
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.manifest
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.application
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.pdb
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.xml
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+D:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.config
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmBackupData.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyStatSpc.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmGXDailyCases.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmGXEdit.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_GX.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_PCR.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_ST.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPCRDailyCases.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPCREdit.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCopyRecord.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmReportsSpc.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSTDailyCases.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSTEdit.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewGXCases.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewOldCases.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewPCRCases.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewSTCases.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory System JLC.vbproj.GenerateResource.Cache
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.application
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.manifest
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.application
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.pdb
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.xml
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+E:\IRFAN SOFTWARES\Laboratory System Sale - JLC\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmBackupData.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyStatSpc.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmGXDailyCases.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmGXEdit.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNationalDailyCases.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNationalEdit.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_GX.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_National.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_PCR.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_ST.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPCRDailyCases.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPCREdit.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCopyRecord.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmReportsSpc.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSTDailyCases.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSTEdit.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewGXCases.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewOldCases.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewPCRCases.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewSTCases.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory System JLC.vbproj.GenerateResource.Cache
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.application
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.config
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.manifest
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.application
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.pdb
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.xml
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+D:\My Projects\Laboratory System Sale - JLC\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.config
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmBackupData.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyStatSpc.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmGXDailyCases.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmGXEdit.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNationalDailyCases.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNationalEdit.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_GX.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_National.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_PCR.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_ST.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPCRDailyCases.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPCREdit.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCopyRecord.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmReportsSpc.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSTDailyCases.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSTEdit.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewGXCases.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewOldCases.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewPCRCases.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewSTCases.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory System JLC.vbproj.GenerateResource.Cache
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.application
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.manifest
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.application
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.pdb
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.xml
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+E:\My Projects\Laboratory System Sale - JLC\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmBackupData.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyStatSpc.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmGXDailyCases.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmGXEdit.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNationalDailyCases.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNationalEdit.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_GX.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_National.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_PCR.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient_ST.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPCRDailyCases.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPCREdit.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCopyRecord.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmReportsSpc.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSTDailyCases.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSTEdit.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewGXCases.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewOldCases.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewPCRCases.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewSTCases.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory System JLC.vbproj.GenerateResource.Cache
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.application
+D:\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.config
+D:\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.manifest
+D:\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.application
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+D:\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+D:\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe
+D:\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.pdb
+D:\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.xml
+D:\Laboratory System Sale - JLC\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+D:\Laboratory System Sale - JLC\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+Z:\Final Projects\Laboratory System Sale - JLC\LabSystem\Laboratory Systems Pro.exe.config
+Z:\Final Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+Z:\Final Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+Z:\Final Projects\Laboratory System Sale - JLC\LabSystem\obj\Debug\Laboratory Systems Pro.pdb

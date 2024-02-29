@@ -1,0 +1,636 @@
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReception.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBilling.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelComp.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelTrans.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMaintenance.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Laboratory System.vbproj.GenerateResource.Cache
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.application
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\Laboratory Systems.exe.manifest
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\Laboratory Systems.application
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.xml
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.pdb
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\Laboratory Systems.exe
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\Laboratory Systems.pdb
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\Laboratory Systems.xml
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe
+K:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.xml
+K:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.pdb
+K:\Laboratory System Sql\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReception.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBilling.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelComp.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelTrans.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMaintenance.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory System.vbproj.GenerateResource.Cache
+K:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+K:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+K:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.application
+K:\Laboratory System Sql\LabSystem\Laboratory Systems.exe.manifest
+K:\Laboratory System Sql\LabSystem\Laboratory Systems.application
+K:\Laboratory System Sql\LabSystem\Laboratory Systems.exe
+K:\Laboratory System Sql\LabSystem\Laboratory Systems.pdb
+K:\Laboratory System Sql\LabSystem\Laboratory Systems.xml
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.licenses
+E:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe
+E:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.xml
+E:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.pdb
+E:\Laboratory System Sql\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReception.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBilling.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClosLedgers.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelComp.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelTrans.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMaintenance.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPercent.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory System.vbproj.GenerateResource.Cache
+E:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.licenses
+E:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+E:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+E:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.application
+E:\Laboratory System Sql\LabSystem\Laboratory Systems.exe.manifest
+E:\Laboratory System Sql\LabSystem\Laboratory Systems.application
+E:\Laboratory System Sql\LabSystem\Laboratory Systems.exe
+E:\Laboratory System Sql\LabSystem\Laboratory Systems.pdb
+E:\Laboratory System Sql\LabSystem\Laboratory Systems.xml
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRptFormat.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe
+J:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.xml
+J:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.pdb
+J:\Laboratory System Sql\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReception.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBilling.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClosLedgers.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelComp.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelTrans.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMaintenance.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPercent.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRptFormat.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+J:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory System.vbproj.GenerateResource.Cache
+J:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.licenses
+J:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+J:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+J:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.application
+J:\Laboratory System Sql\LabSystem\Laboratory Systems.exe.manifest
+J:\Laboratory System Sql\LabSystem\Laboratory Systems.application
+J:\Laboratory System Sql\LabSystem\Laboratory Systems.exe
+J:\Laboratory System Sql\LabSystem\Laboratory Systems.pdb
+J:\Laboratory System Sql\LabSystem\Laboratory Systems.xml
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClosLedgers.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPercent.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRptFormat.resources
+K:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.licenses
+I:\Laboratory System Sql\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReception.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBilling.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBloodCp.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClosLedgers.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelComp.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelTrans.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMaintenance.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPercent.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRptFormat.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory System.vbproj.GenerateResource.Cache
+I:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.licenses
+I:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+I:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+I:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.application
+I:\Laboratory System Sql\LabSystem\Laboratory Systems.exe.manifest
+I:\Laboratory System Sql\LabSystem\Laboratory Systems.application
+I:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe
+I:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.xml
+I:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.pdb
+I:\Laboratory System Sql\LabSystem\Laboratory Systems.exe
+I:\Laboratory System Sql\LabSystem\Laboratory Systems.pdb
+I:\Laboratory System Sql\LabSystem\Laboratory Systems.xml
+F:\Laboratory System Sql\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReception.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBilling.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBloodCp.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClosLedgers.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelComp.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelTrans.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMaintenance.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPercent.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRptFormat.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory System.vbproj.GenerateResource.Cache
+F:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.licenses
+F:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+F:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+F:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.application
+F:\Laboratory System Sql\LabSystem\Laboratory Systems.exe.manifest
+F:\Laboratory System Sql\LabSystem\Laboratory Systems.application
+F:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe
+F:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.xml
+F:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.pdb
+F:\Laboratory System Sql\LabSystem\Laboratory Systems.exe
+F:\Laboratory System Sql\LabSystem\Laboratory Systems.pdb
+F:\Laboratory System Sql\LabSystem\Laboratory Systems.xml
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClAdjEntry.resources
+I:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClAdjEntry.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBloodCp.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClAdjEntry.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCrossMatch.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmHarmoneStat.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe
+G:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.xml
+G:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.pdb
+G:\Laboratory System Sql\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReception.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBilling.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBloodCp.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClAdjEntry.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClosLedgers.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCrossMatch.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelComp.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelTrans.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmHarmoneStat.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMaintenance.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPercent.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRptFormat.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory System.vbproj.GenerateResource.Cache
+G:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.licenses
+G:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+G:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+G:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.application
+G:\Laboratory System Sql\LabSystem\Laboratory Systems.exe.manifest
+G:\Laboratory System Sql\LabSystem\Laboratory Systems.application
+G:\Laboratory System Sql\LabSystem\Laboratory Systems.exe
+G:\Laboratory System Sql\LabSystem\Laboratory Systems.pdb
+G:\Laboratory System Sql\LabSystem\Laboratory Systems.xml
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmExpenseList.resources
+G:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmExpense.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmExpense.resources
+F:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmExpenseList.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCrossMatch.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmExpense.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmExpenseList.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmHarmoneStat.resources
+E:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReception.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBilling.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBloodCp.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClAdjEntry.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClosLedgers.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCrossMatch.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelComp.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelTrans.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmExpense.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmExpenseList.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmHarmoneStat.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMaintenance.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPercent.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRptFormat.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+H:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory System.vbproj.GenerateResource.Cache
+H:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.licenses
+H:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+H:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+H:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.application
+H:\Laboratory System Sql\LabSystem\Laboratory Systems.exe.manifest
+H:\Laboratory System Sql\LabSystem\Laboratory Systems.application
+H:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe
+H:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.xml
+H:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.pdb
+H:\Laboratory System Sql\LabSystem\Laboratory Systems.exe
+H:\Laboratory System Sql\LabSystem\Laboratory Systems.pdb
+H:\Laboratory System Sql\LabSystem\Laboratory Systems.xml
+D:\Laboratory System Sql\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReception.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBilling.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBloodCp.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClAdjEntry.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClosLedgers.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCrossMatch.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelComp.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelTrans.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmExpense.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmExpenseList.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmHarmoneStat.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMaintenance.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPercent.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRptFormat.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+D:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory System.vbproj.GenerateResource.Cache
+D:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.licenses
+D:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+D:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+D:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.application
+D:\Laboratory System Sql\LabSystem\Laboratory Systems.exe.manifest
+D:\Laboratory System Sql\LabSystem\Laboratory Systems.application
+D:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe
+D:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.xml
+D:\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.pdb
+D:\Laboratory System Sql\LabSystem\Laboratory Systems.exe
+D:\Laboratory System Sql\LabSystem\Laboratory Systems.pdb
+D:\Laboratory System Sql\LabSystem\Laboratory Systems.xml
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReception.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.Form1.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBilling.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmBloodCp.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClAdjEntry.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmClosLedgers.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCrossMatch.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelComp.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDelTrans.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmExpense.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmExpenseList.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmHarmoneStat.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMaintenance.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPercent.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRptFormat.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Laboratory System.vbproj.GenerateResource.Cache
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.licenses
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.application
+E:\Software backup\Laboratory System Sql\LabSystem\Laboratory Systems.exe.config
+E:\Software backup\Laboratory System Sql\LabSystem\Laboratory Systems.exe.manifest
+E:\Software backup\Laboratory System Sql\LabSystem\Laboratory Systems.application
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.xml
+E:\Software backup\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.pdb
+E:\Software backup\Laboratory System Sql\LabSystem\Laboratory Systems.exe
+E:\Software backup\Laboratory System Sql\LabSystem\Laboratory Systems.pdb
+E:\Software backup\Laboratory System Sql\LabSystem\Laboratory Systems.xml
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmReception.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmAccStatment.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmBilling.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmBloodCp.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmCompanies.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmCrossMatch.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmDelTrans.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmMaintenance.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmPercent.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmRptFormat.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Laboratory System.vbproj.GenerateResource.Cache
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Laboratory Systems.exe.licenses
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Laboratory Systems.application
+E:\Software backup\Laboratory System Pro\LabSystem\Laboratory Systems.exe.config
+E:\Software backup\Laboratory System Pro\LabSystem\Laboratory Systems.exe.manifest
+E:\Software backup\Laboratory System Pro\LabSystem\Laboratory Systems.application
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Laboratory Systems.exe
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Laboratory Systems.xml
+E:\Software backup\Laboratory System Pro\LabSystem\obj\Debug\Laboratory Systems.pdb
+E:\Software backup\Laboratory System Pro\LabSystem\Laboratory Systems.exe
+E:\Software backup\Laboratory System Pro\LabSystem\Laboratory Systems.pdb
+E:\Software backup\Laboratory System Pro\LabSystem\Laboratory Systems.xml
+E:\Software backup\Laboratory System Pro\LabSystem\Laboratory Systems Pro.exe.config

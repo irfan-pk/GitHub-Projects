@@ -1,0 +1,612 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{85330DE4-239D-44F3-9FAF-D1EF32D50830}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Business_Solutions.My.MyApplication</StartupObject>
+    <RootNamespace>Business_Solutions</RootNamespace>
+    <AssemblyName>Laboratory Systems Pro</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>37952B20517D322EF4E4DCE9D9684474014F9218</ManifestCertificateThumbprint>
+    <ManifestKeyFile>LabSystem_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <TargetZone>LocalIntranet</TargetZone>
+    <ExcludedPermissions>System.Security.Permissions.FileIOPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</ExcludedPermissions>
+    <ApplicationIcon>Resources\Laboratory.ico</ApplicationIcon>
+    <PublishUrl>E:\LabSetup\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>\\LabSetup\e%24\\Installer\</InstallUrl>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>.\</OutputPath>
+    <DocumentationFile>Laboratory Systems Pro.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Laboratory Systems Pro.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="CrystalDecisions" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.Odbc" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.Designer.vb">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="frmAccReports.Designer.vb">
+      <DependentUpon>frmAccReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccStatment.Designer.vb">
+      <DependentUpon>frmAccStatment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccStatment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBillReport.Designer.vb">
+      <DependentUpon>frmBillReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBillReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrossMatch.Designer.vb">
+      <DependentUpon>frmCrossMatch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrossMatch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCurrentStat.Designer.vb">
+      <DependentUpon>frmCurrentStat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCurrentStat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDocCases.Designer.vb">
+      <DependentUpon>frmDocCases.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDocCases.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEdit.Designer.vb">
+      <DependentUpon>frmEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDailyCases.Designer.vb">
+      <DependentUpon>frmDailyCases.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDailyCases.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDailyStat.Designer.vb">
+      <DependentUpon>frmDailyStat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDailyStat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJournal.Designer.vb">
+      <DependentUpon>frmJournal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJournal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLabInfo.Designer.vb">
+      <DependentUpon>frmLabInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLabInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLedgers.Designer.vb">
+      <DependentUpon>frmLedgers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLedgers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNameCorrection.Designer.vb">
+      <DependentUpon>frmNameCorrection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNameCorrection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewAcc.Designer.vb">
+      <DependentUpon>frmNewAcc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewAcc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPercent.Designer.vb">
+      <DependentUpon>frmPercent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPercent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintDialog.Designer.vb">
+      <DependentUpon>frmPrintDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintRateList.Designer.vb">
+      <DependentUpon>frmPrintRateList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintRateList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintSlip.Designer.vb">
+      <DependentUpon>frmPrintSlip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintSlip.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRateInquiry.Designer.vb">
+      <DependentUpon>frmRateInquiry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRateInquiry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRates.Designer.vb">
+      <DependentUpon>frmRates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRates.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReports.Designer.vb">
+      <DependentUpon>frmReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmServer.Designer.vb">
+      <DependentUpon>frmServer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmServer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSysUser.Designer.vb">
+      <DependentUpon>frmSysUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSysUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCollectionPoint.Designer.vb">
+      <DependentUpon>frmCollectionPoint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCollectionPoint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRefer.Designer.vb">
+      <DependentUpon>frmRefer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRefer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTestCode.Designer.vb">
+      <DependentUpon>frmTestCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTestCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPatient.Designer.vb">
+      <DependentUpon>frmPatient.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTests.Designer.vb">
+      <DependentUpon>frmTests.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTests.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewTransactions.Designer.vb">
+      <DependentUpon>frmViewTransactions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewTransactions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVisitors.Designer.vb">
+      <DependentUpon>frmVisitors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVisitors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdlGeneral.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccReports.resx">
+      <DependentUpon>frmAccReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccStatment.resx">
+      <DependentUpon>frmAccStatment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBillReport.resx">
+      <DependentUpon>frmBillReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrossMatch.resx">
+      <DependentUpon>frmCrossMatch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCurrentStat.resx">
+      <DependentUpon>frmCurrentStat.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDocCases.resx">
+      <DependentUpon>frmDocCases.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEdit.resx">
+      <DependentUpon>frmEdit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDailyCases.resx">
+      <DependentUpon>frmDailyCases.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDailyStat.resx">
+      <DependentUpon>frmDailyStat.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJournal.resx">
+      <DependentUpon>frmJournal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLabInfo.resx">
+      <DependentUpon>frmLabInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLedgers.resx">
+      <DependentUpon>frmLedgers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNameCorrection.resx">
+      <DependentUpon>frmNameCorrection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewAcc.resx">
+      <DependentUpon>frmNewAcc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPercent.resx">
+      <DependentUpon>frmPercent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintDialog.resx">
+      <DependentUpon>frmPrintDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintRateList.resx">
+      <DependentUpon>frmPrintRateList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintSlip.resx">
+      <DependentUpon>frmPrintSlip.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRateInquiry.resx">
+      <DependentUpon>frmRateInquiry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRates.resx">
+      <DependentUpon>frmRates.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReports.resx">
+      <DependentUpon>frmReports.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmServer.resx">
+      <DependentUpon>frmServer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSysUser.resx">
+      <DependentUpon>frmSysUser.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCollectionPoint.resx">
+      <DependentUpon>frmCollectionPoint.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRefer.resx">
+      <DependentUpon>frmRefer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTestCode.resx">
+      <DependentUpon>frmTestCode.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPatient.resx">
+      <DependentUpon>frmPatient.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTests.resx">
+      <DependentUpon>frmTests.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewTransactions.resx">
+      <DependentUpon>frmViewTransactions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVisitors.resx">
+      <DependentUpon>frmVisitors.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_addressHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProtectFormHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book_StackOfReportsHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CalculatorHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book_openHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrganizerHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveFormDesignHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_reportHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saveHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FindHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CutHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_edit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StopHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PrintPreviewHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="Resources\Filter2HS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book_angleHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\comment_edit.png" />
+    <None Include="Resources\comment_remove.png" />
+    <None Include="Resources\application_remove.png" />
+    <None Include="Resources\database_accept.png" />
+    <None Include="Resources\Files-Folder-64.png" />
+    <None Include="Resources\Download-64.png" />
+    <None Include="Resources\Electronic-Billing-Machine-64.png" />
+    <None Include="Resources\Cashbox-64.png" />
+    <None Include="Resources\cashbox.png" />
+    <None Include="Resources\Keys-64.png" />
+    <None Include="Resources\Content-Reorder-64.png" />
+    <None Include="Resources\exit-64.png" />
+    <None Include="Resources\Gnome-Application-Exit-64.png" />
+    <None Include="Resources\folder_add.png" />
+    <None Include="Resources\folder_add1.png" />
+    <None Include="Resources\application_lock.png" />
+    <None Include="Resources\database_remove.png" />
+    <None Include="Resources\Head-physician-64.png" />
+    <None Include="Resources\Contact-64.png" />
+    <None Include="Resources\Lab Wallpaper 2.jpg" />
+    <None Include="Resources\health_wall_paper.jpg" />
+    <None Include="Resources\71_1thermo_lab_6753_w1.jpg" />
+    <Content Include="Resources\Laboratory.ico" />
+    <None Include="Resources\money-bag.jpg" />
+    <None Include="Resources\login_img1.gif" />
+    <None Include="Resources\treatment_256.png" />
+    <None Include="Resources\Locked-64.png" />
+    <None Include="Resources\Report-64.png" />
+    <None Include="Resources\Printer-64.png" />
+    <None Include="Resources\weight.png" />
+    <None Include="Resources\Money_Bag_64.png" />
+    <None Include="Resources\Money-64x64.png" />
+    <None Include="Resources\Money-64.png" />
+    <None Include="Resources\Medical-invoice-information-64.png" />
+    <None Include="Resources\Survey-64.png" />
+    <None Include="Resources\People-64.png" />
+    <None Include="Resources\Wooden-Notepad-64.png" />
+    <None Include="Resources\Wooden-Folder-64.png" />
+    <None Include="Resources\Stomatologist-64.png" />
+    <None Include="Resources\PatientFile.png" />
+    <None Include="Resources\PatientFile2.png" />
+    <None Include="Resources\PatientFile1.png" />
+    <None Include="Resources\PatientData.png" />
+    <None Include="Resources\urology_2561.png" />
+    <None Include="Resources\urology_1281.png" />
+    <None Include="Resources\scanner_1281.png" />
+    <None Include="Resources\scanner_2561.png" />
+    <None Include="Resources\Medical.PNG" />
+    <None Include="Resources\users.png" />
+    <None Include="Resources\page_process.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\remove.png" />
+    <None Include="Resources\microscope_128.png" />
+    <None Include="Resources\treatment_128.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,99 @@
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmDelComp.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmCpDuesStat.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\LabSystem.vbproj.GenerateResource.Cache
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Laboratory Systems.application
+E:\Vb2008 Projects\LabSystem\LabSystem\Laboratory Systems.exe.manifest
+E:\Vb2008 Projects\LabSystem\LabSystem\Laboratory Systems.application
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Laboratory Systems.exe
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Laboratory Systems.xml
+E:\Vb2008 Projects\LabSystem\LabSystem\obj\Debug\Laboratory Systems.pdb
+E:\Vb2008 Projects\LabSystem\LabSystem\Laboratory Systems.exe
+E:\Vb2008 Projects\LabSystem\LabSystem\Laboratory Systems.pdb
+E:\Vb2008 Projects\LabSystem\LabSystem\Laboratory Systems.xml
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Laboratory Systems.exe
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Laboratory Systems.xml
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Laboratory Systems.pdb
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmDelComp.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmCpDuesStat.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\LabSystem.vbproj.GenerateResource.Cache
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+E:\Vb2008 Projects\Lab System\LabSystem\obj\Debug\Laboratory Systems.application
+E:\Vb2008 Projects\Lab System\LabSystem\Laboratory Systems.exe.manifest
+E:\Vb2008 Projects\Lab System\LabSystem\Laboratory Systems.application
+E:\Vb2008 Projects\Lab System\LabSystem\Laboratory Systems.exe
+E:\Vb2008 Projects\Lab System\LabSystem\Laboratory Systems.pdb
+E:\Vb2008 Projects\Lab System\LabSystem\Laboratory Systems.xml
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Laboratory Systems.exe
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Laboratory Systems.xml
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Laboratory Systems.pdb
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmDelComp.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmCpDuesStat.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmDocList.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\LabSystem.vbproj.GenerateResource.Cache
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Laboratory Systems.TrustInfo.xml
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Laboratory Systems.exe.manifest
+E:\Vb2008 Projects\Laboratory System\LabSystem\obj\Debug\Laboratory Systems.application
+E:\Vb2008 Projects\Laboratory System\LabSystem\Laboratory Systems.exe.manifest
+E:\Vb2008 Projects\Laboratory System\LabSystem\Laboratory Systems.application
+E:\Vb2008 Projects\Laboratory System\LabSystem\Laboratory Systems.exe
+E:\Vb2008 Projects\Laboratory System\LabSystem\Laboratory Systems.pdb
+E:\Vb2008 Projects\Laboratory System\LabSystem\Laboratory Systems.xml
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.exe
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.xml
+E:\Vb2008 Projects\Laboratory System Sql\LabSystem\obj\Debug\Laboratory Systems.pdb

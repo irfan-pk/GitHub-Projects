@@ -1,0 +1,258 @@
+K:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe.config
+K:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+K:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+K:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+K:\Laboratory System Xray\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmPrintDialog.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmPrintRateList.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmRateInquiry.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmRates.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+K:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory System XRAY.vbproj.GenerateResource.Cache
+K:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+K:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+K:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+K:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.application
+K:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe.manifest
+K:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.application
+K:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe
+K:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.pdb
+K:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.xml
+K:\Laboratory System Xray\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+K:\Laboratory System Xray\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+E:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe.config
+E:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+E:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+E:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+E:\Laboratory System Xray\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory System XRAY.vbproj.GenerateResource.Cache
+E:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+E:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+E:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+E:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.application
+E:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe.manifest
+E:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.application
+E:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe
+E:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.pdb
+E:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.xml
+E:\Laboratory System Xray\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+E:\Laboratory System Xray\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInputBox.resources
+E:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmStockReport.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe.config
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmBackupData.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInputBox.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmStockReport.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Laboratory System XRAY.vbproj.GenerateResource.Cache
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.application
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe.manifest
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\Laboratory Systems Pro.application
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\Laboratory Systems Pro.pdb
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\Laboratory Systems Pro.xml
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+D:\IRFAN SOFTWARES\Laboratory System Xray\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+I:\Laboratory System Xray\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmBackupData.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCategoryReports.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCategoryWiseStat.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInputBox.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmStockReport.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+I:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory System XRAY.vbproj.GenerateResource.Cache
+I:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+I:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+I:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+I:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.application
+I:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe.config
+I:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe.manifest
+I:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.application
+I:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+I:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+I:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+I:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe
+I:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.pdb
+I:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.xml
+I:\Laboratory System Xray\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+I:\Laboratory System Xray\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+J:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe.config
+J:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+J:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+J:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.pdb
+J:\Laboratory System Xray\LabSystem\obj\Debug\ResolveAssemblyReference.cache
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.AboutBox.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmBackupData.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCategoryReports.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCategoryWiseStat.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInputBox.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInventory.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmInvTransactions.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmAccReports.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmBillReport.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCurrentStat.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDocCases.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmEdit.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDailyCases.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmDailyStat.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmJournal.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLabInfo.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLedgers.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmNameCorrection.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmNewAcc.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmPrintSlip.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmReports.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmServer.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmStockReport.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmSysUser.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmCollectionPoint.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmLogin.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmMain.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmRefer.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmTestCodeList.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmPatient.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmTests.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmViewTransactions.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.frmVisitors.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.Resources.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Business_Solutions.SplashScreen.resources
+J:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory System XRAY.vbproj.GenerateResource.Cache
+J:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe.licenses
+J:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.TrustInfo.xml
+J:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe.manifest
+J:\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.application
+J:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe.manifest
+J:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.application
+J:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe
+J:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.pdb
+J:\Laboratory System Xray\LabSystem\Laboratory Systems Pro.xml
+J:\Laboratory System Xray\LabSystem\CrystalDecisions.CrystalReports.Engine.dll
+J:\Laboratory System Xray\LabSystem\CrystalDecisions.CrystalReports.Engine.xml
+D:\OneDrive\Laboratory System Xray\LabSystem\Laboratory Systems Pro.exe.config
+D:\OneDrive\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.exe
+D:\OneDrive\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.xml
+D:\OneDrive\Laboratory System Xray\LabSystem\obj\Debug\Laboratory Systems Pro.pdb

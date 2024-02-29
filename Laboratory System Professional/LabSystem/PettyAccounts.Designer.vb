@@ -1,0 +1,664 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class PettyAccounts
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.components = New System.ComponentModel.Container
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle10 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle8 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle9 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(PettyAccounts))
+        Me.txtOpnCrBal = New System.Windows.Forms.TextBox
+        Me.Label7 = New System.Windows.Forms.Label
+        Me.AccDataGrid = New System.Windows.Forms.DataGridView
+        Me.colAccNo = New System.Windows.Forms.DataGridViewTextBoxColumn
+        Me.colAccLink = New System.Windows.Forms.DataGridViewTextBoxColumn
+        Me.colOpnOn = New System.Windows.Forms.DataGridViewTextBoxColumn
+        Me.colACCNAME = New System.Windows.Forms.DataGridViewTextBoxColumn
+        Me.colACCTYPE = New System.Windows.Forms.DataGridViewTextBoxColumn
+        Me.colACCBAL = New System.Windows.Forms.DataGridViewTextBoxColumn
+        Me.colDebit = New System.Windows.Forms.DataGridViewTextBoxColumn
+        Me.colCredit = New System.Windows.Forms.DataGridViewTextBoxColumn
+        Me.colAccUpdated = New System.Windows.Forms.DataGridViewTextBoxColumn
+        Me.PettyAccBindingSource = New System.Windows.Forms.BindingSource(Me.components)
+        Me.PettyAccDataSet = New System.Data.DataSet
+        Me.DataTable1 = New System.Data.DataTable
+        Me.txtOpnBal = New System.Windows.Forms.TextBox
+        Me.dtpOpenOn = New System.Windows.Forms.DateTimePicker
+        Me.txtDrCr = New System.Windows.Forms.TextBox
+        Me.cmbDrCr = New System.Windows.Forms.ComboBox
+        Me.cmbAccHead = New System.Windows.Forms.ComboBox
+        Me.Label8 = New System.Windows.Forms.Label
+        Me.Label6 = New System.Windows.Forms.Label
+        Me.BindingNavigatorFindItem = New System.Windows.Forms.ToolStripButton
+        Me.BindingNavigatorEditItem = New System.Windows.Forms.ToolStripButton
+        Me.BindingNavigatorSaveItem = New System.Windows.Forms.ToolStripButton
+        Me.BindingNavigatorMoveLastItem = New System.Windows.Forms.ToolStripButton
+        Me.BindingNavigatorMoveNextItem = New System.Windows.Forms.ToolStripButton
+        Me.BindingNavigatorMovePreviousItem = New System.Windows.Forms.ToolStripButton
+        Me.BindingNavigatorAddNewItem = New System.Windows.Forms.ToolStripButton
+        Me.BindingNavigatorDeleteItem = New System.Windows.Forms.ToolStripButton
+        Me.BindingNavigatorMoveFirstItem = New System.Windows.Forms.ToolStripButton
+        Me.BindingNavigatorSeparator = New System.Windows.Forms.ToolStripSeparator
+        Me.txtAccName = New System.Windows.Forms.TextBox
+        Me.BindingNavigatorPositionItem = New System.Windows.Forms.ToolStripTextBox
+        Me.BindingNavigatorCountItem = New System.Windows.Forms.ToolStripLabel
+        Me.BindingNavigatorSeparator1 = New System.Windows.Forms.ToolStripSeparator
+        Me.PettyAccBindingNavigator = New System.Windows.Forms.BindingNavigator(Me.components)
+        Me.BindingNavigatorSeparator2 = New System.Windows.Forms.ToolStripSeparator
+        Me.ToolStripSeparator1 = New System.Windows.Forms.ToolStripSeparator
+        Me.ToolStripSeparator2 = New System.Windows.Forms.ToolStripSeparator
+        Me.BindingNavigatorCloseItem = New System.Windows.Forms.ToolStripButton
+        Me.txtOpnDrBal = New System.Windows.Forms.TextBox
+        Me.Label5 = New System.Windows.Forms.Label
+        Me.Label4 = New System.Windows.Forms.Label
+        Me.Label3 = New System.Windows.Forms.Label
+        Me.Panel1 = New System.Windows.Forms.Panel
+        Me.txtLimit = New System.Windows.Forms.TextBox
+        Me.Label2 = New System.Windows.Forms.Label
+        Me.txtAccID = New System.Windows.Forms.TextBox
+        Me.Label1 = New System.Windows.Forms.Label
+        CType(Me.AccDataGrid, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PettyAccBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PettyAccDataSet, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.DataTable1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PettyAccBindingNavigator, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.PettyAccBindingNavigator.SuspendLayout()
+        Me.Panel1.SuspendLayout()
+        Me.SuspendLayout()
+        '
+        'txtOpnCrBal
+        '
+        Me.txtOpnCrBal.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.txtOpnCrBal.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtOpnCrBal.Location = New System.Drawing.Point(282, 76)
+        Me.txtOpnCrBal.Name = "txtOpnCrBal"
+        Me.txtOpnCrBal.Size = New System.Drawing.Size(106, 22)
+        Me.txtOpnCrBal.TabIndex = 7
+        Me.txtOpnCrBal.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        '
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label7.Location = New System.Drawing.Point(216, 81)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(65, 13)
+        Me.Label7.TabIndex = 11
+        Me.Label7.Text = "Credit B/L"
+        '
+        'AccDataGrid
+        '
+        Me.AccDataGrid.AllowUserToAddRows = False
+        Me.AccDataGrid.AllowUserToDeleteRows = False
+        Me.AccDataGrid.AllowUserToResizeColumns = False
+        Me.AccDataGrid.AllowUserToResizeRows = False
+        Me.AccDataGrid.AutoGenerateColumns = False
+        Me.AccDataGrid.BackgroundColor = System.Drawing.Color.LightSteelBlue
+        Me.AccDataGrid.BorderStyle = System.Windows.Forms.BorderStyle.None
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle1.BackColor = System.Drawing.Color.Gainsboro
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.AccDataGrid.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
+        Me.AccDataGrid.ColumnHeadersHeight = 35
+        Me.AccDataGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing
+        Me.AccDataGrid.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.colAccNo, Me.colAccLink, Me.colOpnOn, Me.colACCNAME, Me.colACCTYPE, Me.colACCBAL, Me.colDebit, Me.colCredit, Me.colAccUpdated})
+        Me.AccDataGrid.DataSource = Me.PettyAccBindingSource
+        Me.AccDataGrid.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically
+        Me.AccDataGrid.Location = New System.Drawing.Point(1, 139)
+        Me.AccDataGrid.MultiSelect = False
+        Me.AccDataGrid.Name = "AccDataGrid"
+        Me.AccDataGrid.ReadOnly = True
+        DataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle10.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle10.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle10.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle10.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle10.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle10.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.AccDataGrid.RowHeadersDefaultCellStyle = DataGridViewCellStyle10
+        Me.AccDataGrid.RowHeadersVisible = False
+        Me.AccDataGrid.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
+        Me.AccDataGrid.Size = New System.Drawing.Size(860, 370)
+        Me.AccDataGrid.TabIndex = 9
+        Me.AccDataGrid.TabStop = False
+        '
+        'colAccNo
+        '
+        Me.colAccNo.DataPropertyName = "p_acc_no"
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle2.Format = "000"
+        Me.colAccNo.DefaultCellStyle = DataGridViewCellStyle2
+        Me.colAccNo.HeaderText = "Acc ID"
+        Me.colAccNo.Name = "colAccNo"
+        Me.colAccNo.ReadOnly = True
+        Me.colAccNo.Width = 80
+        '
+        'colAccLink
+        '
+        Me.colAccLink.DataPropertyName = "p_acc_head"
+        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        Me.colAccLink.DefaultCellStyle = DataGridViewCellStyle3
+        Me.colAccLink.HeaderText = "Acc Head"
+        Me.colAccLink.Name = "colAccLink"
+        Me.colAccLink.ReadOnly = True
+        Me.colAccLink.Width = 120
+        '
+        'colOpnOn
+        '
+        Me.colOpnOn.DataPropertyName = "p_acc_opn_date"
+        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        Me.colOpnOn.DefaultCellStyle = DataGridViewCellStyle4
+        Me.colOpnOn.HeaderText = "Opened On"
+        Me.colOpnOn.Name = "colOpnOn"
+        Me.colOpnOn.ReadOnly = True
+        '
+        'colACCNAME
+        '
+        Me.colACCNAME.DataPropertyName = "p_acc_name"
+        Me.colACCNAME.HeaderText = "Account Name"
+        Me.colACCNAME.Name = "colACCNAME"
+        Me.colACCNAME.ReadOnly = True
+        Me.colACCNAME.Width = 175
+        '
+        'colACCTYPE
+        '
+        Me.colACCTYPE.DataPropertyName = "p_acc_type"
+        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        Me.colACCTYPE.DefaultCellStyle = DataGridViewCellStyle5
+        Me.colACCTYPE.HeaderText = "Acc Type"
+        Me.colACCTYPE.Name = "colACCTYPE"
+        Me.colACCTYPE.ReadOnly = True
+        Me.colACCTYPE.Width = 82
+        '
+        'colACCBAL
+        '
+        Me.colACCBAL.DataPropertyName = "p_acc_balance"
+        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        Me.colACCBAL.DefaultCellStyle = DataGridViewCellStyle6
+        Me.colACCBAL.HeaderText = "Opening Balance"
+        Me.colACCBAL.Name = "colACCBAL"
+        Me.colACCBAL.ReadOnly = True
+        '
+        'colDebit
+        '
+        Me.colDebit.DataPropertyName = "p_acc_debit"
+        DataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        Me.colDebit.DefaultCellStyle = DataGridViewCellStyle7
+        Me.colDebit.HeaderText = "Debit"
+        Me.colDebit.Name = "colDebit"
+        Me.colDebit.ReadOnly = True
+        '
+        'colCredit
+        '
+        Me.colCredit.DataPropertyName = "p_acc_credit"
+        DataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        Me.colCredit.DefaultCellStyle = DataGridViewCellStyle8
+        Me.colCredit.HeaderText = "Credit"
+        Me.colCredit.Name = "colCredit"
+        Me.colCredit.ReadOnly = True
+        '
+        'colAccUpdated
+        '
+        Me.colAccUpdated.DataPropertyName = "p_acc_update"
+        DataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        Me.colAccUpdated.DefaultCellStyle = DataGridViewCellStyle9
+        Me.colAccUpdated.HeaderText = "Acc Updated"
+        Me.colAccUpdated.Name = "colAccUpdated"
+        Me.colAccUpdated.ReadOnly = True
+        '
+        'PettyAccBindingSource
+        '
+        Me.PettyAccBindingSource.DataSource = Me.PettyAccDataSet
+        Me.PettyAccBindingSource.Position = 0
+        '
+        'PettyAccDataSet
+        '
+        Me.PettyAccDataSet.DataSetName = "PettyAccDataSet"
+        Me.PettyAccDataSet.Tables.AddRange(New System.Data.DataTable() {Me.DataTable1})
+        '
+        'DataTable1
+        '
+        Me.DataTable1.TableName = "TESTS"
+        '
+        'txtOpnBal
+        '
+        Me.txtOpnBal.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.txtOpnBal.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtOpnBal.Location = New System.Drawing.Point(409, 76)
+        Me.txtOpnBal.Name = "txtOpnBal"
+        Me.txtOpnBal.ReadOnly = True
+        Me.txtOpnBal.Size = New System.Drawing.Size(106, 22)
+        Me.txtOpnBal.TabIndex = 8
+        Me.txtOpnBal.TabStop = False
+        Me.txtOpnBal.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        '
+        'dtpOpenOn
+        '
+        Me.dtpOpenOn.CalendarFont = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dtpOpenOn.Location = New System.Drawing.Point(627, 13)
+        Me.dtpOpenOn.Name = "dtpOpenOn"
+        Me.dtpOpenOn.Size = New System.Drawing.Size(215, 20)
+        Me.dtpOpenOn.TabIndex = 2
+        '
+        'txtDrCr
+        '
+        Me.txtDrCr.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.txtDrCr.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtDrCr.Location = New System.Drawing.Point(745, 44)
+        Me.txtDrCr.Name = "txtDrCr"
+        Me.txtDrCr.ReadOnly = True
+        Me.txtDrCr.Size = New System.Drawing.Size(97, 22)
+        Me.txtDrCr.TabIndex = 5
+        Me.txtDrCr.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'cmbDrCr
+        '
+        Me.cmbDrCr.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.cmbDrCr.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cmbDrCr.FormattingEnabled = True
+        Me.cmbDrCr.Items.AddRange(New Object() {"Debit", "Credit"})
+        Me.cmbDrCr.Location = New System.Drawing.Point(628, 45)
+        Me.cmbDrCr.Name = "cmbDrCr"
+        Me.cmbDrCr.Size = New System.Drawing.Size(97, 21)
+        Me.cmbDrCr.TabIndex = 4
+        '
+        'cmbAccHead
+        '
+        Me.cmbAccHead.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.cmbAccHead.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.cmbAccHead.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cmbAccHead.FormattingEnabled = True
+        Me.cmbAccHead.Items.AddRange(New Object() {"ASSETS", "EQUITY", "LIABILITIES", "REVENUE", "EXPENSES", "INCOME SUMMARY"})
+        Me.cmbAccHead.Location = New System.Drawing.Point(300, 11)
+        Me.cmbAccHead.Name = "cmbAccHead"
+        Me.cmbAccHead.Size = New System.Drawing.Size(215, 21)
+        Me.cmbAccHead.TabIndex = 1
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label8.Location = New System.Drawing.Point(210, 16)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(88, 13)
+        Me.Label8.TabIndex = 10
+        Me.Label8.Text = "Account Head"
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label6.Location = New System.Drawing.Point(555, 15)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(71, 13)
+        Me.Label6.TabIndex = 10
+        Me.Label6.Text = "Opened On"
+        '
+        'BindingNavigatorFindItem
+        '
+        Me.BindingNavigatorFindItem.Image = Global.Business_Solutions.My.Resources.Resources.FindHS
+        Me.BindingNavigatorFindItem.ImageTransparentColor = System.Drawing.Color.Magenta
+        Me.BindingNavigatorFindItem.Name = "BindingNavigatorFindItem"
+        Me.BindingNavigatorFindItem.Size = New System.Drawing.Size(50, 22)
+        Me.BindingNavigatorFindItem.Text = "&Find"
+        '
+        'BindingNavigatorEditItem
+        '
+        Me.BindingNavigatorEditItem.Image = Global.Business_Solutions.My.Resources.Resources.data_edit
+        Me.BindingNavigatorEditItem.ImageTransparentColor = System.Drawing.Color.Magenta
+        Me.BindingNavigatorEditItem.Name = "BindingNavigatorEditItem"
+        Me.BindingNavigatorEditItem.Size = New System.Drawing.Size(47, 22)
+        Me.BindingNavigatorEditItem.Text = "&Edit"
+        '
+        'BindingNavigatorSaveItem
+        '
+        Me.BindingNavigatorSaveItem.Enabled = False
+        Me.BindingNavigatorSaveItem.Image = Global.Business_Solutions.My.Resources.Resources.saveHS
+        Me.BindingNavigatorSaveItem.ImageTransparentColor = System.Drawing.Color.Magenta
+        Me.BindingNavigatorSaveItem.Name = "BindingNavigatorSaveItem"
+        Me.BindingNavigatorSaveItem.Size = New System.Drawing.Size(51, 22)
+        Me.BindingNavigatorSaveItem.Text = "&Save"
+        '
+        'BindingNavigatorMoveLastItem
+        '
+        Me.BindingNavigatorMoveLastItem.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
+        Me.BindingNavigatorMoveLastItem.Image = CType(resources.GetObject("BindingNavigatorMoveLastItem.Image"), System.Drawing.Image)
+        Me.BindingNavigatorMoveLastItem.Name = "BindingNavigatorMoveLastItem"
+        Me.BindingNavigatorMoveLastItem.RightToLeftAutoMirrorImage = True
+        Me.BindingNavigatorMoveLastItem.Size = New System.Drawing.Size(23, 22)
+        Me.BindingNavigatorMoveLastItem.Text = "Move last"
+        '
+        'BindingNavigatorMoveNextItem
+        '
+        Me.BindingNavigatorMoveNextItem.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
+        Me.BindingNavigatorMoveNextItem.Image = CType(resources.GetObject("BindingNavigatorMoveNextItem.Image"), System.Drawing.Image)
+        Me.BindingNavigatorMoveNextItem.Name = "BindingNavigatorMoveNextItem"
+        Me.BindingNavigatorMoveNextItem.RightToLeftAutoMirrorImage = True
+        Me.BindingNavigatorMoveNextItem.Size = New System.Drawing.Size(23, 22)
+        Me.BindingNavigatorMoveNextItem.Text = "Move next"
+        '
+        'BindingNavigatorMovePreviousItem
+        '
+        Me.BindingNavigatorMovePreviousItem.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
+        Me.BindingNavigatorMovePreviousItem.Image = CType(resources.GetObject("BindingNavigatorMovePreviousItem.Image"), System.Drawing.Image)
+        Me.BindingNavigatorMovePreviousItem.Name = "BindingNavigatorMovePreviousItem"
+        Me.BindingNavigatorMovePreviousItem.RightToLeftAutoMirrorImage = True
+        Me.BindingNavigatorMovePreviousItem.Size = New System.Drawing.Size(23, 22)
+        Me.BindingNavigatorMovePreviousItem.Text = "Move previous"
+        '
+        'BindingNavigatorAddNewItem
+        '
+        Me.BindingNavigatorAddNewItem.Image = CType(resources.GetObject("BindingNavigatorAddNewItem.Image"), System.Drawing.Image)
+        Me.BindingNavigatorAddNewItem.Name = "BindingNavigatorAddNewItem"
+        Me.BindingNavigatorAddNewItem.RightToLeftAutoMirrorImage = True
+        Me.BindingNavigatorAddNewItem.Size = New System.Drawing.Size(74, 22)
+        Me.BindingNavigatorAddNewItem.Text = "&Add new"
+        '
+        'BindingNavigatorDeleteItem
+        '
+        Me.BindingNavigatorDeleteItem.Image = CType(resources.GetObject("BindingNavigatorDeleteItem.Image"), System.Drawing.Image)
+        Me.BindingNavigatorDeleteItem.Name = "BindingNavigatorDeleteItem"
+        Me.BindingNavigatorDeleteItem.RightToLeftAutoMirrorImage = True
+        Me.BindingNavigatorDeleteItem.Size = New System.Drawing.Size(60, 22)
+        Me.BindingNavigatorDeleteItem.Text = "&Delete"
+        '
+        'BindingNavigatorMoveFirstItem
+        '
+        Me.BindingNavigatorMoveFirstItem.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
+        Me.BindingNavigatorMoveFirstItem.Image = CType(resources.GetObject("BindingNavigatorMoveFirstItem.Image"), System.Drawing.Image)
+        Me.BindingNavigatorMoveFirstItem.Name = "BindingNavigatorMoveFirstItem"
+        Me.BindingNavigatorMoveFirstItem.RightToLeftAutoMirrorImage = True
+        Me.BindingNavigatorMoveFirstItem.Size = New System.Drawing.Size(23, 22)
+        Me.BindingNavigatorMoveFirstItem.Text = "Move first"
+        '
+        'BindingNavigatorSeparator
+        '
+        Me.BindingNavigatorSeparator.Name = "BindingNavigatorSeparator"
+        Me.BindingNavigatorSeparator.Size = New System.Drawing.Size(6, 25)
+        '
+        'txtAccName
+        '
+        Me.txtAccName.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.txtAccName.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtAccName.Location = New System.Drawing.Point(93, 44)
+        Me.txtAccName.Name = "txtAccName"
+        Me.txtAccName.Size = New System.Drawing.Size(422, 22)
+        Me.txtAccName.TabIndex = 3
+        '
+        'BindingNavigatorPositionItem
+        '
+        Me.BindingNavigatorPositionItem.AccessibleName = "Position"
+        Me.BindingNavigatorPositionItem.AutoSize = False
+        Me.BindingNavigatorPositionItem.Name = "BindingNavigatorPositionItem"
+        Me.BindingNavigatorPositionItem.Size = New System.Drawing.Size(50, 21)
+        Me.BindingNavigatorPositionItem.Text = "1"
+        Me.BindingNavigatorPositionItem.ToolTipText = "Current position"
+        '
+        'BindingNavigatorCountItem
+        '
+        Me.BindingNavigatorCountItem.Name = "BindingNavigatorCountItem"
+        Me.BindingNavigatorCountItem.Size = New System.Drawing.Size(35, 22)
+        Me.BindingNavigatorCountItem.Text = "of {0}"
+        Me.BindingNavigatorCountItem.ToolTipText = "Total number of items"
+        '
+        'BindingNavigatorSeparator1
+        '
+        Me.BindingNavigatorSeparator1.Name = "BindingNavigatorSeparator1"
+        Me.BindingNavigatorSeparator1.Size = New System.Drawing.Size(6, 25)
+        '
+        'PettyAccBindingNavigator
+        '
+        Me.PettyAccBindingNavigator.AddNewItem = Me.BindingNavigatorAddNewItem
+        Me.PettyAccBindingNavigator.BindingSource = Me.PettyAccBindingSource
+        Me.PettyAccBindingNavigator.CountItem = Me.BindingNavigatorCountItem
+        Me.PettyAccBindingNavigator.DeleteItem = Me.BindingNavigatorDeleteItem
+        Me.PettyAccBindingNavigator.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden
+        Me.PettyAccBindingNavigator.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.BindingNavigatorMoveFirstItem, Me.BindingNavigatorMovePreviousItem, Me.BindingNavigatorSeparator, Me.BindingNavigatorPositionItem, Me.BindingNavigatorCountItem, Me.BindingNavigatorSeparator1, Me.BindingNavigatorMoveNextItem, Me.BindingNavigatorMoveLastItem, Me.BindingNavigatorSeparator2, Me.BindingNavigatorFindItem, Me.ToolStripSeparator1, Me.BindingNavigatorAddNewItem, Me.BindingNavigatorEditItem, Me.BindingNavigatorDeleteItem, Me.BindingNavigatorSaveItem, Me.ToolStripSeparator2, Me.BindingNavigatorCloseItem})
+        Me.PettyAccBindingNavigator.Location = New System.Drawing.Point(0, 0)
+        Me.PettyAccBindingNavigator.MoveFirstItem = Me.BindingNavigatorMoveFirstItem
+        Me.PettyAccBindingNavigator.MoveLastItem = Me.BindingNavigatorMoveLastItem
+        Me.PettyAccBindingNavigator.MoveNextItem = Me.BindingNavigatorMoveNextItem
+        Me.PettyAccBindingNavigator.MovePreviousItem = Me.BindingNavigatorMovePreviousItem
+        Me.PettyAccBindingNavigator.Name = "PettyAccBindingNavigator"
+        Me.PettyAccBindingNavigator.PositionItem = Me.BindingNavigatorPositionItem
+        Me.PettyAccBindingNavigator.Size = New System.Drawing.Size(868, 25)
+        Me.PettyAccBindingNavigator.TabIndex = 7
+        Me.PettyAccBindingNavigator.Text = "BindingNavigator"
+        '
+        'BindingNavigatorSeparator2
+        '
+        Me.BindingNavigatorSeparator2.Name = "BindingNavigatorSeparator2"
+        Me.BindingNavigatorSeparator2.Size = New System.Drawing.Size(6, 25)
+        '
+        'ToolStripSeparator1
+        '
+        Me.ToolStripSeparator1.Name = "ToolStripSeparator1"
+        Me.ToolStripSeparator1.Size = New System.Drawing.Size(6, 25)
+        '
+        'ToolStripSeparator2
+        '
+        Me.ToolStripSeparator2.Name = "ToolStripSeparator2"
+        Me.ToolStripSeparator2.Size = New System.Drawing.Size(6, 25)
+        '
+        'BindingNavigatorCloseItem
+        '
+        Me.BindingNavigatorCloseItem.Image = Global.Business_Solutions.My.Resources.Resources.StopHS
+        Me.BindingNavigatorCloseItem.ImageTransparentColor = System.Drawing.Color.Magenta
+        Me.BindingNavigatorCloseItem.Name = "BindingNavigatorCloseItem"
+        Me.BindingNavigatorCloseItem.Size = New System.Drawing.Size(56, 22)
+        Me.BindingNavigatorCloseItem.Text = "&Close"
+        '
+        'txtOpnDrBal
+        '
+        Me.txtOpnDrBal.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.txtOpnDrBal.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtOpnDrBal.Location = New System.Drawing.Point(93, 76)
+        Me.txtOpnDrBal.Name = "txtOpnDrBal"
+        Me.txtOpnDrBal.Size = New System.Drawing.Size(106, 22)
+        Me.txtOpnDrBal.TabIndex = 6
+        Me.txtOpnDrBal.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label5.Location = New System.Drawing.Point(547, 81)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(80, 13)
+        Me.Label5.TabIndex = 8
+        Me.Label5.Text = "Petty Budget"
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.Location = New System.Drawing.Point(27, 81)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(62, 13)
+        Me.Label4.TabIndex = 6
+        Me.Label4.Text = "Debit B/L"
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Location = New System.Drawing.Point(565, 47)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(61, 13)
+        Me.Label3.TabIndex = 4
+        Me.Label3.Text = "Acc Type"
+        '
+        'Panel1
+        '
+        Me.Panel1.BackColor = System.Drawing.Color.LightSteelBlue
+        Me.Panel1.Controls.Add(Me.txtLimit)
+        Me.Panel1.Controls.Add(Me.txtOpnBal)
+        Me.Panel1.Controls.Add(Me.txtOpnCrBal)
+        Me.Panel1.Controls.Add(Me.Label7)
+        Me.Panel1.Controls.Add(Me.dtpOpenOn)
+        Me.Panel1.Controls.Add(Me.txtDrCr)
+        Me.Panel1.Controls.Add(Me.cmbDrCr)
+        Me.Panel1.Controls.Add(Me.cmbAccHead)
+        Me.Panel1.Controls.Add(Me.Label8)
+        Me.Panel1.Controls.Add(Me.Label6)
+        Me.Panel1.Controls.Add(Me.Label5)
+        Me.Panel1.Controls.Add(Me.txtOpnDrBal)
+        Me.Panel1.Controls.Add(Me.Label4)
+        Me.Panel1.Controls.Add(Me.Label3)
+        Me.Panel1.Controls.Add(Me.txtAccName)
+        Me.Panel1.Controls.Add(Me.Label2)
+        Me.Panel1.Controls.Add(Me.txtAccID)
+        Me.Panel1.Controls.Add(Me.Label1)
+        Me.Panel1.Location = New System.Drawing.Point(1, 25)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.Size = New System.Drawing.Size(860, 108)
+        Me.Panel1.TabIndex = 8
+        '
+        'txtLimit
+        '
+        Me.txtLimit.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtLimit.Location = New System.Drawing.Point(627, 76)
+        Me.txtLimit.Name = "txtLimit"
+        Me.txtLimit.Size = New System.Drawing.Size(215, 22)
+        Me.txtLimit.TabIndex = 9
+        Me.txtLimit.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label2.Location = New System.Drawing.Point(9, 47)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(80, 13)
+        Me.Label2.TabIndex = 2
+        Me.Label2.Text = "Sub Account"
+        Me.Label2.TextAlign = System.Drawing.ContentAlignment.TopRight
+        '
+        'txtAccID
+        '
+        Me.txtAccID.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.txtAccID.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtAccID.Location = New System.Drawing.Point(93, 12)
+        Me.txtAccID.Name = "txtAccID"
+        Me.txtAccID.Size = New System.Drawing.Size(111, 22)
+        Me.txtAccID.TabIndex = 0
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(18, 16)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(71, 13)
+        Me.Label1.TabIndex = 0
+        Me.Label1.Text = "Account ID"
+        '
+        'PettyAccounts
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(868, 516)
+        Me.Controls.Add(Me.AccDataGrid)
+        Me.Controls.Add(Me.PettyAccBindingNavigator)
+        Me.Controls.Add(Me.Panel1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.MaximizeBox = False
+        Me.MaximumSize = New System.Drawing.Size(874, 545)
+        Me.Name = "PettyAccounts"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        CType(Me.AccDataGrid, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PettyAccBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PettyAccDataSet, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.DataTable1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PettyAccBindingNavigator, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.PettyAccBindingNavigator.ResumeLayout(False)
+        Me.PettyAccBindingNavigator.PerformLayout()
+        Me.Panel1.ResumeLayout(False)
+        Me.Panel1.PerformLayout()
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
+    End Sub
+    Friend WithEvents txtOpnCrBal As System.Windows.Forms.TextBox
+    Friend WithEvents Label7 As System.Windows.Forms.Label
+    Friend WithEvents AccDataGrid As System.Windows.Forms.DataGridView
+    Friend WithEvents PettyAccBindingSource As System.Windows.Forms.BindingSource
+    Friend WithEvents PettyAccDataSet As System.Data.DataSet
+    Friend WithEvents DataTable1 As System.Data.DataTable
+    Friend WithEvents txtOpnBal As System.Windows.Forms.TextBox
+    Friend WithEvents dtpOpenOn As System.Windows.Forms.DateTimePicker
+    Friend WithEvents txtDrCr As System.Windows.Forms.TextBox
+    Friend WithEvents cmbDrCr As System.Windows.Forms.ComboBox
+    Friend WithEvents cmbAccHead As System.Windows.Forms.ComboBox
+    Friend WithEvents Label8 As System.Windows.Forms.Label
+    Friend WithEvents Label6 As System.Windows.Forms.Label
+    Friend WithEvents BindingNavigatorFindItem As System.Windows.Forms.ToolStripButton
+    Friend WithEvents BindingNavigatorEditItem As System.Windows.Forms.ToolStripButton
+    Friend WithEvents BindingNavigatorSaveItem As System.Windows.Forms.ToolStripButton
+    Friend WithEvents BindingNavigatorMoveLastItem As System.Windows.Forms.ToolStripButton
+    Friend WithEvents BindingNavigatorMoveNextItem As System.Windows.Forms.ToolStripButton
+    Friend WithEvents BindingNavigatorMovePreviousItem As System.Windows.Forms.ToolStripButton
+    Friend WithEvents BindingNavigatorAddNewItem As System.Windows.Forms.ToolStripButton
+    Friend WithEvents BindingNavigatorDeleteItem As System.Windows.Forms.ToolStripButton
+    Friend WithEvents BindingNavigatorMoveFirstItem As System.Windows.Forms.ToolStripButton
+    Friend WithEvents BindingNavigatorSeparator As System.Windows.Forms.ToolStripSeparator
+    Friend WithEvents txtAccName As System.Windows.Forms.TextBox
+    Friend WithEvents BindingNavigatorPositionItem As System.Windows.Forms.ToolStripTextBox
+    Friend WithEvents BindingNavigatorCountItem As System.Windows.Forms.ToolStripLabel
+    Friend WithEvents BindingNavigatorSeparator1 As System.Windows.Forms.ToolStripSeparator
+    Friend WithEvents PettyAccBindingNavigator As System.Windows.Forms.BindingNavigator
+    Friend WithEvents BindingNavigatorSeparator2 As System.Windows.Forms.ToolStripSeparator
+    Friend WithEvents ToolStripSeparator1 As System.Windows.Forms.ToolStripSeparator
+    Friend WithEvents ToolStripSeparator2 As System.Windows.Forms.ToolStripSeparator
+    Friend WithEvents BindingNavigatorCloseItem As System.Windows.Forms.ToolStripButton
+    Friend WithEvents txtOpnDrBal As System.Windows.Forms.TextBox
+    Friend WithEvents Label5 As System.Windows.Forms.Label
+    Friend WithEvents Label4 As System.Windows.Forms.Label
+    Friend WithEvents Label3 As System.Windows.Forms.Label
+    Friend WithEvents Panel1 As System.Windows.Forms.Panel
+    Friend WithEvents Label2 As System.Windows.Forms.Label
+    Friend WithEvents txtAccID As System.Windows.Forms.TextBox
+    Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents colAccNo As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents colAccLink As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents colOpnOn As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents colACCNAME As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents colACCTYPE As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents colACCBAL As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents colDebit As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents colCredit As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents colAccUpdated As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents txtLimit As System.Windows.Forms.TextBox
+End Class
