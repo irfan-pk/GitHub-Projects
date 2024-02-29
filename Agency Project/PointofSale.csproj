@@ -1,0 +1,676 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3285C90F-C85C-4D62-A864-2A82AE506FA6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WholeSaleApplication</RootNamespace>
+    <AssemblyName>Point of Sale</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>WholeSaleApplication.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>shopping cart.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="NMemory, Version=3.0.0.0, Culture=neutral, PublicKeyToken=afc61983f100d280, processorArchitecture=MSIL">
+      <HintPath>packages\NMemory.3.1.2\lib\net45\NMemory.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountTypes.Designer.cs">
+      <DependentUpon>AccountTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccountBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountBook.Designer.cs">
+      <DependentUpon>AccountBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AreaLists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AreaLists.Designer.cs">
+      <DependentUpon>AreaLists.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashBook.Designer.cs">
+      <DependentUpon>CashBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CityLists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CityLists.Designer.cs">
+      <DependentUpon>CityLists.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Companies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Companies.Designer.cs">
+      <DependentUpon>Companies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyInfo.Designer.cs">
+      <DependentUpon>CompanyInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseParameters.cs" />
+    <Compile Include="PurchaseReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurchaseReturn.Designer.cs">
+      <DependentUpon>PurchaseReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleBookReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleBookReturn.Designer.cs">
+      <DependentUpon>SaleBookReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleInvoiceReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleInvoiceReturn.Designer.cs">
+      <DependentUpon>SaleInvoiceReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FieldViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FieldViewerForm.Designer.cs">
+      <DependentUpon>FieldViewerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalVariableClass.cs" />
+    <Compile Include="GroupList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupList.Designer.cs">
+      <DependentUpon>GroupList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JournalRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JournalRegister.Designer.cs">
+      <DependentUpon>JournalRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LedgerBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LedgerBalance.Designer.cs">
+      <DependentUpon>LedgerBalance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogBook.Designer.cs">
+      <DependentUpon>LogBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewAccount.Designer.cs">
+      <DependentUpon>NewAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewProduct.Designer.cs">
+      <DependentUpon>NewProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NumericTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NumericTextBox.Designer.cs">
+      <DependentUpon>NumericTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParametersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParametersForm.Designer.cs">
+      <DependentUpon>ParametersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm.Designer.cs">
+      <DependentUpon>PopupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductGroup.Designer.cs">
+      <DependentUpon>ProductGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products.Designer.cs">
+      <DependentUpon>Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PurchaseBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurchaseBook.Designer.cs">
+      <DependentUpon>PurchaseBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PurchaseOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurchaseOrder.Designer.cs">
+      <DependentUpon>PurchaseOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuickReceipts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuickReceipts.Designer.cs">
+      <DependentUpon>QuickReceipts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer.Designer.cs">
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleInvoice.Designer.cs">
+      <DependentUpon>SaleInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleBook.Designer.cs">
+      <DependentUpon>SaleBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesMan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesMan.Designer.cs">
+      <DependentUpon>SalesMan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductScheme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductScheme.Designer.cs">
+      <DependentUpon>ProductScheme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LedgerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LedgerForm.Designer.cs">
+      <DependentUpon>LedgerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeList.Designer.cs">
+      <DependentUpon>TypeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrduTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="AccountTypes.resx">
+      <DependentUpon>AccountTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountBook.resx">
+      <DependentUpon>AccountBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AreaLists.resx">
+      <DependentUpon>AreaLists.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashBook.resx">
+      <DependentUpon>CashBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CityLists.resx">
+      <DependentUpon>CityLists.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Companies.resx">
+      <DependentUpon>Companies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyInfo.resx">
+      <DependentUpon>CompanyInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PurchaseReturn.resx">
+      <DependentUpon>PurchaseReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleBookReturn.resx">
+      <DependentUpon>SaleBookReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleInvoiceReturn.resx">
+      <DependentUpon>SaleInvoiceReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FieldViewerForm.resx">
+      <DependentUpon>FieldViewerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupList.resx">
+      <DependentUpon>GroupList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JournalRegister.resx">
+      <DependentUpon>JournalRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LedgerBalance.resx">
+      <DependentUpon>LedgerBalance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogBook.resx">
+      <DependentUpon>LogBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParametersForm.resx">
+      <DependentUpon>ParametersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PurchaseBook.resx">
+      <DependentUpon>PurchaseBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewAccount.resx">
+      <DependentUpon>NewAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewProduct.resx">
+      <DependentUpon>NewProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm.resx">
+      <DependentUpon>PopupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductGroup.resx">
+      <DependentUpon>ProductGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products.resx">
+      <DependentUpon>Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="PurchaseOrder.resx">
+      <DependentUpon>PurchaseOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuickReceipts.resx">
+      <DependentUpon>QuickReceipts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer.resx">
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleInvoice.resx">
+      <DependentUpon>SaleInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleBook.resx">
+      <DependentUpon>SaleBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesMan.resx">
+      <DependentUpon>SalesMan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductScheme.resx">
+      <DependentUpon>ProductScheme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LedgerForm.resx">
+      <DependentUpon>LedgerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeList.resx">
+      <DependentUpon>TypeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrduTextBox.resx">
+      <DependentUpon>UrduTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Accounting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drug-basket-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Money-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Shopping cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashbox_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Invoice-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\History-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Autocomplete-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Money_Calculator_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cash-register-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Turn off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Administrator-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_addressHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book_angleHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book_openHS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Client-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Autocomplete-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Create.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saveHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_pencil1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\List.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Filter2HS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\View.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PatientFile2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Toolbox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Wrench.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Comment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drug-basket-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480382547_palet03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Green tag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Question_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Company.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Boss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Go back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Go forward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_cancel_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_computer_chat_50px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_computer_chat_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_info_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\OK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\About.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Alert.png" />
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Delete.png" />
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Script.png" />
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Calculator.png" />
+    <None Include="Resources\24x24-free-application-icons\png\24x24\3d bar chart.png" />
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Notes.png" />
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Go.png" />
+    <None Include="Resources\cashbook_Blue_24px.png" />
+    <None Include="Resources\general_ledger_color_24px.png" />
+    <None Include="Resources\ledger_color_24px.png" />
+    <None Include="Resources\financial_growth_analysis_24px.png" />
+    <None Include="Resources\analyze_24px.png" />
+    <None Include="Resources\accounting_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Dollar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash_in_hand_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_payment_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory-building_72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory-building_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24-free-application-icons\png\24x24\Redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checked_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trolley_24px.png" />
+    <Content Include="shopping cart.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>
