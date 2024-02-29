@@ -1,0 +1,47 @@
+D:\My Projects\Agency Project\bin\Debug\Point of Sale.exe.config
+D:\My Projects\Agency Project\bin\Debug\Point of Sale.exe
+D:\My Projects\Agency Project\bin\Debug\Point of Sale.pdb
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.Shared.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\My Projects\Agency Project\bin\Debug\FlashControlV71.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\My Projects\Agency Project\bin\Debug\ShockwaveFlashObjects.dll
+D:\My Projects\Agency Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\My Projects\Agency Project\bin\Debug\stdole.dll
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.AccountTypes.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.AccountBook.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.AreaLists.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.CityLists.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.Companies.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.FieldViewerForm.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.GrpListForm.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.Main.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.NewAccount.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.NewProduct.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.ProductGroup.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.Products.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.SaleInvoice.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.SaleBook.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.SalesMan.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.ProductScheme.resources
+D:\My Projects\Agency Project\obj\Debug\WindowsFormsApp2.TypeList.resources
+D:\My Projects\Agency Project\obj\Debug\UrduTextBoxDemo.UrduTextBox.resources
+D:\My Projects\Agency Project\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+D:\My Projects\Agency Project\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+D:\My Projects\Agency Project\obj\Debug\Point of Sale.csproj.CopyComplete
+D:\My Projects\Agency Project\obj\Debug\Point of Sale.exe
+D:\My Projects\Agency Project\obj\Debug\Point of Sale.pdb
+D:\My Projects\Agency Project\obj\Debug\Point of Sale.csprojAssemblyReference.cache
