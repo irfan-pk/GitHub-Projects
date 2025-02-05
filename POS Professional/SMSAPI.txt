@@ -1,0 +1,78 @@
+using System; 
+using System.Net; 
+using System.Web;
+ 
+ 
+public class Program 
+{ 
+public static void Main() 
+{ 
+string MyUsername = "userxxx"; //Your Username At Sendpk.com 
+string MyPassword = "92***"; //Your Password At Sendpk.com 
+string toNumber = "923****"; //Recepient cell phone number with country code 
+string Masking = "SMS Alert"; //Your Company Brand Name 
+string MessageText = "SMS Sent using .Net"; 
+string jsonResponse = SendSMS(Masking, toNumber, MessageText, MyUsername , MyPassword); 
+Console.Write(jsonResponse); 
+//Console.Read(); //to keep console window open if trying in visual studio 
+} 
+public static string SendSMS(string Masking, string toNumber, string MessageText, string MyUsername , string MyPassword) 
+{ 
+String URI = "http://sendpk.com" + 
+"/api/sms.php?" + 
+"username=" + MyUsername + 
+"&password=" + MyPassword + 
+"&sender=" + Masking + 
+"&mobile=" + toNumber + 
+"&message=" + Uri.UnescapeDataString(MessageText); // Visual Studio 10-15 
+"//&message=" + System.Net.WebUtility.UrlEncode(MessageText);// Visual Studio 12 
+try
+{ 
+WebRequest req = WebRequest.Create(URI); 
+WebResponse resp = req.GetResponse(); 
+var sr = new System.IO.StreamReader(resp.GetResponseStream()); 
+return sr.ReadToEnd().Trim(); 
+} 
+catch (WebException ex) 
+{ 
+var httpWebResponse = ex.Response as HttpWebResponse; 
+if (httpWebResponse != null) 
+{ 
+switch (httpWebResponse.StatusCode) 
+{ 
+case HttpStatusCode.NotFound: 
+return "404:URL not found :" + URI; 
+break; 
+case HttpStatusCode.BadRequest: 
+return "400:Bad Request"; 
+break; 
+default: 
+return httpWebResponse.StatusCode.ToString(); 
+} 
+} 
+} 
+return null; 
+} 
+}
+
+
+
+
+
+Send Single SMS:
+https://sendpk.com/api/sms.php?username=username&password=password&sender=Masking &mobile=923001234567&message=Hello
+
+Send Multiple SMS:
+https://sendpk.com/api/sms.php?username=username&password=password&sender=Masking &mobile=923001234567,923101234567&message=Hello
+
+Send SMS In Unicode:
+https://sendpk.com/api/sms.php?username=username&password=password&sender=Masking &mobile=923001234567,923101234567&message=Hello&type=unicode
+
+Send Schedule SMS:
+https://sendpk.com/api/sms.php?username=username&password=password&sender=Masking &mobile=923001234567,923101234567&message=Hello&date=23-12-2016&time=22:30:00
+
+Get Delivery Report Of SMS:
+https://sendpk.com/api/delivery.php?username=username&password=password&id=MessageID
+
+Check Credit Through HTTP/S API:
+https://sendpk.com/api/balance.php?username=username&password=password

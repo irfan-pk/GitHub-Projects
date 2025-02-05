@@ -1,0 +1,1048 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>POS System Professional</name>
+    </assembly>
+    <members>
+        <member name="F:POS_System.CustomerList.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:POS_System.CustomerList.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:POS_System.CustomerList.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:POS_System.FoodMenuList">
+            <summary>
+            Food Menu List
+            </summary>
+        </member>
+        <member name="M:POS_System.FoodMenuList.#ctor">
+            <summary>
+            Main Class
+            </summary>
+        </member>
+        <member name="M:POS_System.FoodMenuList.ClickButton(System.Object,System.EventArgs)">
+            <summary>
+            Result of (Click Button) event, get the text of button
+            </summary>
+        </member>
+        <member name="M:POS_System.FoodMenuList.ItemButton(System.Object,System.EventArgs)">
+            <summary>
+            Result of (Click Button) event, get the text of button
+            </summary>
+        </member>
+        <member name="T:POS_System.My.Resources.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480379970_self1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480380033_Shipping1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480380140_self1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480380241_palet02">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480380353_self2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480380353_self21">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480380353_self22">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480380542_Shipping1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480380686_benchmarking">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480380686_benchmarking1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480381704_column_chart">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480381800_palet02">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480381895_exit">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480381895_exit1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480381895_exit2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480381895_exit3">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480381921_exit">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480381921_exit1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382547_palet03">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382569_fork4">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382569_fork41">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382569_fork411">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382569_fork42">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382625_fork3">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382625_fork31">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382641_palet04">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382641_palet041">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382931_Log_Out">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382931_Log_Out1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382931_Log_Out2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382931_Log_Out3">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480382999_xfce_system_exit">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480383006_xfce_system_exit">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480383006_xfce_system_exit1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480383006_xfce_system_exit2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480383006_xfce_system_exit3">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1480383031_Cancel">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1485917021_view_refresh">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1486607961_Delivery">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1486608109_Delivery">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1486608109_Delivery1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1487123129_Sales_by_Payment_Method_rep">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1487123129_Sales_by_Payment_Method_rep1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1487123143_ordering">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1487123143_ordering1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1487899031_Add_Male_User">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1487899053_Edit_Male_User">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1489263950_handle4">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources._1489264044_handle3">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Add_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Admin_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.agt_stop_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.agt_stop_641">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Analysis_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Analysis_641">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Analysis_642">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Analysis_6421">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Application">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.application_remove">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.application_remove1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.application_remove2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.application_remove3">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Application1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Application2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.basket_full_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.basket_full_icon1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.basket_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Billboard_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Blog_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Book_openHS">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Breakfast_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Business_Man_Blue_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Card_file">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Card_file_SH">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Card_file_SH1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Card_file_SH11">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Card_file1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Cash_register_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Cash_register_72px_510913_easyicon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.cash_register_abm_420m_bmp_251_227">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.cashbox">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.cashbox_128">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.cashbox_1281">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Cashbox_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.cashbox_72">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.CashboxNew_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.CashboxNew_641">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Client_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Content_Reorder_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Content_Reorder_641">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.data_add">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.data_add1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.data_add2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.data_edit">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.data_edit1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.data_edit2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.database_remove">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.DefineControls">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.delivery_autoship">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.delivery_autoship1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.delivery_truck">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.delivery_truck_2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.diet_64px">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.dining_table">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.dollar_sign">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Drug_basket_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Electronic_Billing_Machine_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.exit_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Filter2HS">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.fish_chips_64px">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.french_fries_64px">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.full_shopping_cart_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Keys_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Locked_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.login">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Login_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.login_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.login_icon1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.login_icon2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.login_img">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.lunch_box_64px">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Medical_invoice_information_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Misc_New_Database_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Money_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Money_641">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Money_642">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Money_Bag_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Money_Bag_641">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Money_Bag_642">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.MonthlyViewHS">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.MonthlyViewHS1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.nextover">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.PatientFile2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.People_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.People_641">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.PKR_Rs_1000_2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.PKR_Rs_1000_3">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.PKR_Rs_1000_31">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.PKR_Rs_1000_32">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.PrintHS">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.PrintPreviewHS">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Register_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.remove">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.remove1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.remove2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.remove3">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.remove4">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.remove5">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.restaurant_449952">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Safe_SH">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Safe_SH1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.sale_undo_red">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.saveHS">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.saveHS1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.saveHS2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Search_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Search_641">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search11">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search12">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search13">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search14">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search15">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search16">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search17">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search18">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search181">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search19">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search191">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search192">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.search3">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.shipping">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.shopping_cart_full_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.stock_package">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.stock_package1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.stop">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.stop1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.stop2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.Surveys_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.system_maintenance_15367">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.User_Files_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.users1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.users11">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.wholesaler_autoship">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:POS_System.My.Resources.Resources.wholesaler_autoship1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="T:POS_System.Parcel">
+            <summary>
+            Main Class
+            </summary>
+        </member>
+        <member name="M:POS_System.Parcel.Dispose(System.Boolean)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:POS_System.Parcel.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:POS_System.Parcel.lblTotalPrice_Validated(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:POS_System.Parcel.Popup_DataGrid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:POS_System.Parcel.Get_Total(System.String)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:POS_System.Parcel.GetMax_ID(System.String)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:POS_System.Parcel.GetDetail_ID(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="StringID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:POS_System.Parcel.Handles_SettleOrder">
+            <summary>
+            Add Food Menu List to DataGrid
+            </summary>
+        </member>
+        <member name="M:POS_System.Parcel.CalculateTotals">
+            <summary>
+            Get Totals
+            </summary>
+        </member>
+    </members>
+</doc>

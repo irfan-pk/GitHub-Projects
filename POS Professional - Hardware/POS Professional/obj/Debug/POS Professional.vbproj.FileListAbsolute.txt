@@ -1,0 +1,149 @@
+Z:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.exe
+Z:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.xml
+Z:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.pdb
+E:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.exe
+E:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.xml
+E:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.pdb
+F:\My Projects\POS Professional\POS Professional\bin\Debug\POS Professional.exe
+F:\My Projects\POS Professional\POS Professional\bin\Debug\POS Professional.pdb
+F:\My Projects\POS Professional\POS Professional\bin\Debug\POS Professional.xml
+F:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+F:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+F:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+F:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.Shared.dll
+F:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\My Projects\POS Professional\POS Professional\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+F:\My Projects\POS Professional\POS Professional\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+F:\My Projects\POS Professional\POS Professional\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\My Projects\POS Professional\POS Professional\bin\Debug\Microsoft.SqlServer.Smo.dll
+F:\My Projects\POS Professional\POS Professional\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+F:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+F:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.Windows.Forms.xml
+F:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.Shared.xml
+F:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.ReportSource.xml
+F:\My Projects\POS Professional\POS Professional\obj\Debug\ResolveAssemblyReference.cache
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.AdjustPayment.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.BackupData.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.BillPayment.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CategoryList.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CreateDB.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CustomerCode.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CoustomerLedger.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CustomerMenu.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CustomerPurchases.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CustomerReports.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Customers.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.DatabaseParameters.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.DepartmentList.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.MasterControl.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.EditPayment.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.EditSaleInvoice.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ExtendDescription.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ITEMTYPES.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.PaymentBox.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ProductSearch.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ReturnPayment.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.SaleScreen.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.HoldSale.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.LoginInput.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Main.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Maintenance.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.MsgStatus.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Resources.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ProductCode.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Products.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Purchases.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.PurchasesReturn.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Reports.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ServerParameters.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ShopInfo.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.SplashScreen.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Status.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.StockMenu.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.StockPosition.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.StockReports.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.StockReportViewer.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.SummaryReports.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.SystemUsers.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.WholeSalerPayments.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.PurchasesView.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.SaleView.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.WholesalerCodes.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.WholeSalerLedger.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.WholesalerReports.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.WholeSalers.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.WholesalersMenu.resources
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.vbproj.GenerateResource.Cache
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.exe
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.xml
+F:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.pdb
+D:\My Projects\POS Professional\POS Professional\bin\Debug\POS Professional.exe
+D:\My Projects\POS Professional\POS Professional\bin\Debug\POS Professional.pdb
+D:\My Projects\POS Professional\POS Professional\bin\Debug\POS Professional.xml
+D:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.Shared.dll
+D:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+D:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.Windows.Forms.xml
+D:\My Projects\POS Professional\POS Professional\bin\Debug\CrystalDecisions.Shared.xml
+D:\My Projects\POS Professional\POS Professional\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.AdjustPayment.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.BackupData.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.BillPayment.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CategoryList.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CreateDB.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CustomerCode.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CoustomerLedger.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CustomerMenu.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CustomerPurchases.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.CustomerReports.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Customers.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.DatabaseParameters.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.DepartmentList.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.MasterControl.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.EditPayment.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.EditSaleInvoice.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ExtendDescription.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ITEMTYPES.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.PaymentBox.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ProductSearch.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ReturnPayment.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.SaleScreen.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.HoldSale.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.LoginInput.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Main.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Maintenance.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.MsgStatus.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Resources.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ProductCode.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Products.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Purchases.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.PurchasesReturn.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Reports.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ServerParameters.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.ShopInfo.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.SplashScreen.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.Status.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.StockMenu.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.StockPosition.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.StockReports.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.StockReportViewer.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.SummaryReports.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.SystemUsers.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.WholeSalerPayments.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.PurchasesView.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.SaleView.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.WholesalerCodes.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.WholeSalerLedger.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.WholesalerReports.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.WholeSalers.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS_Professional.WholesalersMenu.resources
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.vbproj.GenerateResource.Cache
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.exe
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.xml
+D:\My Projects\POS Professional\POS Professional\obj\Debug\POS Professional.pdb
+D:\My Projects\POS Professional - Hardware\POS Professional\obj\Debug\POS Professional.exe
+D:\My Projects\POS Professional - Hardware\POS Professional\obj\Debug\POS Professional.xml
+D:\My Projects\POS Professional - Hardware\POS Professional\obj\Debug\POS Professional.pdb

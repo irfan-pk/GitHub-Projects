@@ -1,0 +1,61 @@
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\POS System Professional.exe.config
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\POS System Professional.xml
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\POS System Professional.exe
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\POS System Professional.pdb
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.Shared.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\stdole.dll
+E:\My Projects\POS System - Retaurant - 2022\POS System\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS Restaurant.csproj.AssemblyReference.cache
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.BackupData.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.CustomerList.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.CustomerMenu.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.FoodMenuList.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.Waiters.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.CreateDB.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.WaiterCode.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.CustomerReports.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.Customers.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.CustPurchases.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.Cust_Journal.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.DineTableMenu.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.HoldSale.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.LoginInput.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.Main.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.Product.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.ProductCode.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.Reports.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.Parcel.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.SaleMenu.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.Server.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.SummaryReports.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.SysUser.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.TableOrder.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.TabViewSale.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.ViewPurchases.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.WaterMarkTextBox.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.Maintenance.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.Resources.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.MsgStatus.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.SplashScreen.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS_System.Status.resources
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS Restaurant.csproj.GenerateResource.cache
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS Restaurant.csproj.CoreCompileInputs.cache
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS Rest.8B98CCE8.Up2Date
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS System Professional.exe
+E:\My Projects\POS System - Retaurant - 2022\POS System\obj\Debug\POS System Professional.pdb

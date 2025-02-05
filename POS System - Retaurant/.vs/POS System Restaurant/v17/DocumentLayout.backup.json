@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Projects\\POS System - Retaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7404D4E-0E3A-4E6A-B85A-CD07D20544B7}|POS System\\POS Restaurant.vbproj|e:\\my projects\\pos system - retaurant\\pos system\\foodmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E7404D4E-0E3A-4E6A-B85A-CD07D20544B7}|POS System\\POS Restaurant.vbproj|solutionrelative:pos system\\foodmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodMenu.vb [Design]",
+              "DocumentMoniker": "E:\\My Projects\\POS System - Retaurant\\POS System\\FoodMenu.vb",
+              "RelativeDocumentMoniker": "POS System\\FoodMenu.vb",
+              "ToolTip": "E:\\My Projects\\POS System - Retaurant\\POS System\\FoodMenu.vb [Design]",
+              "RelativeToolTip": "POS System\\FoodMenu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T21:55:49.806Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

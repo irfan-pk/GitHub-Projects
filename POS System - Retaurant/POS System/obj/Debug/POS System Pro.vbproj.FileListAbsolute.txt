@@ -1,0 +1,48 @@
+D:\IRFAN SOFTWARES\POS System\POS System\bin\Debug\POS System Professional.exe.config
+D:\IRFAN SOFTWARES\POS System\POS System\bin\Debug\POS System Professional.exe
+D:\IRFAN SOFTWARES\POS System\POS System\bin\Debug\POS System Professional.pdb
+D:\IRFAN SOFTWARES\POS System\POS System\bin\Debug\POS System Professional.xml
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\ResolveAssemblyReference.cache
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmCompanies.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmCreateDB.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmCustCode.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmCustomerMenu.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmCustomers.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmCustPurchases.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmCust_Journal.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmDataRepeater.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmHoldSale.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmJournal.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmLoginInput.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmMain.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmProductCode.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmProducts.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmPurchases.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmPurchReturn.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmSale.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmSaleMenu.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmServer.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmStock.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmStockPosition.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmSuplCode.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmSysUser.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmTabViewSale.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmViewCompanyLedgers.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmViewPurchases.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmWholesalers.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.Resources.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmMsgStatus.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.SplashScreen.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.Status.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS System Pro.vbproj.GenerateResource.Cache
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS System Professional.exe
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS System Professional.xml
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS System Professional.pdb
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmCustomerReports.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmReports.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmWholesalerReports.resources
+D:\IRFAN SOFTWARES\POS System\POS System\obj\Debug\POS_System.frmSummaryReports.resources
+D:\IRFAN SOFTWARES\POS System - Limited Edition\POS System\bin\Debug\POS System Professional.exe.config
+D:\IRFAN SOFTWARES\POS System - Limited Edition\POS System\obj\Debug\POS System Professional.exe
+D:\IRFAN SOFTWARES\POS System - Limited Edition\POS System\obj\Debug\POS System Professional.xml
+D:\IRFAN SOFTWARES\POS System - Limited Edition\POS System\obj\Debug\POS System Professional.pdb

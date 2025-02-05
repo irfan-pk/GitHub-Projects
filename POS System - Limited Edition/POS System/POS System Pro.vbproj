@@ -1,0 +1,736 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E7404D4E-0E3A-4E6A-B85A-CD07D20544B7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>POS_System.My.MyApplication</StartupObject>
+    <RootNamespace>POS_System</RootNamespace>
+    <AssemblyName>POS System Professional</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>1480380043_Shipping1.ico</ApplicationIcon>
+    <TargetFrameworkSubset>
+    </TargetFrameworkSubset>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>POS System Professional.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>.\</OutputPath>
+    <DocumentationFile>POS System Professional.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\CrystalDecisions.ReportSource\10.5.3700.0__692fbea5521e1304\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Management.Collector, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Smo, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="frmCompanies.designer.vb">
+      <DependentUpon>frmCompanies.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCompanies.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreateDB.designer.vb">
+      <DependentUpon>frmCreateDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreateDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustCode.Designer.vb">
+      <DependentUpon>frmCustCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerMenu.Designer.vb">
+      <DependentUpon>frmCustomerMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerReports.Designer.vb">
+      <DependentUpon>frmCustomerReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomers.Designer.vb">
+      <DependentUpon>frmCustomers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustPurchases.Designer.vb">
+      <DependentUpon>frmCustPurchases.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustPurchases.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCust_Journal.Designer.vb">
+      <DependentUpon>frmCust_Journal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCust_Journal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDataRepeater.Designer.vb">
+      <DependentUpon>frmDataRepeater.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDataRepeater.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHoldSale.Designer.vb">
+      <DependentUpon>frmHoldSale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHoldSale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJournal.Designer.vb">
+      <DependentUpon>frmJournal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJournal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginInput.designer.vb">
+      <DependentUpon>frmLoginInput.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoginInput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductCode.designer.vb">
+      <DependentUpon>frmProductCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProducts.Designer.vb">
+      <DependentUpon>frmProducts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmProducts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPurchases.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPurchases.Designer.vb">
+      <DependentUpon>frmPurchases.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPurchReturn.Designer.vb">
+      <DependentUpon>frmPurchReturn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPurchReturn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReports.designer.vb">
+      <DependentUpon>frmReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSale.Designer.vb">
+      <DependentUpon>frmSale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSaleMenu.Designer.vb">
+      <DependentUpon>frmSaleMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSaleMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmServer.designer.vb">
+      <DependentUpon>frmServer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmServer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStock.Designer.vb">
+      <DependentUpon>frmStock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStockPosition.Designer.vb">
+      <DependentUpon>frmStockPosition.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStockPosition.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSummaryReports.Designer.vb">
+      <DependentUpon>frmSummaryReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSummaryReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSuplCode.Designer.vb">
+      <DependentUpon>frmSuplCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSuplCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSysUser.designer.vb">
+      <DependentUpon>frmSysUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSysUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTabViewSale.Designer.vb">
+      <DependentUpon>frmTabViewSale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTabViewSale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewCompanyLedgers.Designer.vb">
+      <DependentUpon>frmViewCompanyLedgers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewCompanyLedgers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewPurchases.Designer.vb">
+      <DependentUpon>frmViewPurchases.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewPurchases.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWholesalerReports.Designer.vb">
+      <DependentUpon>frmWholesalerReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmWholesalerReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWholesalers.Designer.vb">
+      <DependentUpon>frmWholesalers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmWholesalers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdlGeneral.vb" />
+    <Compile Include="WaterMarkTextBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="frmMsgStatus.designer.vb">
+      <DependentUpon>frmMsgStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMsgStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Status.designer.vb">
+      <DependentUpon>Status.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Status.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TabControlClass.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmCompanies.resx">
+      <DependentUpon>frmCompanies.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreateDB.resx">
+      <DependentUpon>frmCreateDB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustCode.resx">
+      <DependentUpon>frmCustCode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerMenu.resx">
+      <DependentUpon>frmCustomerMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerReports.resx">
+      <DependentUpon>frmCustomerReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomers.resx">
+      <DependentUpon>frmCustomers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustPurchases.resx">
+      <DependentUpon>frmCustPurchases.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCust_Journal.resx">
+      <DependentUpon>frmCust_Journal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDataRepeater.resx">
+      <DependentUpon>frmDataRepeater.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHoldSale.resx">
+      <DependentUpon>frmHoldSale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJournal.resx">
+      <DependentUpon>frmJournal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoginInput.resx">
+      <DependentUpon>frmLoginInput.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductCode.resx">
+      <DependentUpon>frmProductCode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProducts.resx">
+      <DependentUpon>frmProducts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPurchases.resx">
+      <DependentUpon>frmPurchases.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPurchReturn.resx">
+      <DependentUpon>frmPurchReturn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReports.resx">
+      <DependentUpon>frmReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSale.resx">
+      <DependentUpon>frmSale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSaleMenu.resx">
+      <DependentUpon>frmSaleMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmServer.resx">
+      <DependentUpon>frmServer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStock.resx">
+      <DependentUpon>frmStock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStockPosition.resx">
+      <DependentUpon>frmStockPosition.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSummaryReports.resx">
+      <DependentUpon>frmSummaryReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSuplCode.resx">
+      <DependentUpon>frmSuplCode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSysUser.resx">
+      <DependentUpon>frmSysUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTabViewSale.resx">
+      <DependentUpon>frmTabViewSale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewCompanyLedgers.resx">
+      <DependentUpon>frmViewCompanyLedgers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewPurchases.resx">
+      <DependentUpon>frmViewPurchases.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWholesalerReports.resx">
+      <DependentUpon>frmWholesalerReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWholesalers.resx">
+      <DependentUpon>frmWholesalers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMsgStatus.resx">
+      <DependentUpon>frmMsgStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Status.resx">
+      <DependentUpon>Status.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Application.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Content-Reorder-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Analysis-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blog-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Medical-invoice-information-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Surveys-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Money-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Content-Reorder-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DefineControls.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drug-basket-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Card file SH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Card file SH1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Card file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Card file1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480379970_self1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480380033_Shipping1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480380140_self1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480380241_palet02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480380686_benchmarking.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Analysis-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480380542_Shipping1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Money_Bag_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agt_stop-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480381800_palet02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480380353_self2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480381921_exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480382569_fork4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480382547_palet03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480382641_palet04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480380686_benchmarking1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480381895_exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agt_stop-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480383006_xfce-system-exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480382999_xfce-system-exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480383006_xfce-system-exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1480383031_Cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MonthlyViewHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MonthlyViewHS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1480380043_Shipping1.ico" />
+    <None Include="Resources\remove3.png" />
+    <None Include="Resources\PrintHS.png" />
+    <None Include="Resources\delivery-truck-2.png" />
+    <None Include="Resources\delivery-truck.png" />
+    <None Include="Resources\1489264044_handle3.png" />
+    <None Include="Resources\1489263950_handle4.png" />
+    <None Include="Resources\stock-package.ico" />
+    <None Include="Resources\stock-package.png" />
+    <None Include="Resources\shipping.png" />
+    <None Include="Resources\PKR_Rs_1000_3.jpg" />
+    <None Include="Resources\PKR_Rs_1000_2.jpg" />
+    <None Include="Resources\dollar-sign.png" />
+    <None Include="Resources\Money-641.png" />
+    <None Include="Resources\search19.png" />
+    <None Include="Resources\search18.png" />
+    <None Include="Resources\search17.png" />
+    <None Include="Resources\search16.png" />
+    <None Include="Resources\search15.png" />
+    <None Include="Resources\Search-641.png" />
+    <None Include="Resources\Search-64.png" />
+    <None Include="Resources\remove2.png" />
+    <None Include="Resources\1480381895_exit3.png" />
+    <None Include="Resources\1480381704_column_chart.png" />
+    <None Include="Resources\search14.png" />
+    <None Include="Resources\search3.png" />
+    <None Include="Resources\search2.png" />
+    <None Include="Resources\Filter2HS.png" />
+    <None Include="Resources\remove1.png" />
+    <None Include="Resources\PrintPreviewHS.png" />
+    <None Include="Resources\application_remove2.png" />
+    <None Include="Resources\1480382931_Log Out3.png" />
+    <None Include="Resources\Keys-64.png" />
+    <None Include="Resources\login.jpeg" />
+    <None Include="Resources\login_icon2.JPG" />
+    <None Include="Resources\login_icon1.JPG" />
+    <None Include="Resources\login_img.gif" />
+    <None Include="Resources\Register-64.png" />
+    <None Include="Resources\login_icon.JPG" />
+    <None Include="Resources\users1.png" />
+    <None Include="Resources\Locked-64.png" />
+    <None Include="Resources\Login-64.png" />
+    <None Include="Resources\users1.ico" />
+    <None Include="Resources\1487899053_Edit-Male-User.png" />
+    <None Include="Resources\1487899031_Add-Male-User.png" />
+    <None Include="Resources\1487123143_ordering.png" />
+    <None Include="Resources\sale_undo_red.png" />
+    <None Include="Resources\Admin-icon.png" />
+    <None Include="Resources\search13.png" />
+    <None Include="Resources\search12.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\cashbox_1281.png" />
+    <None Include="Resources\cashbox_72.png" />
+    <None Include="Resources\cashbox_128.png" />
+    <None Include="Resources\Safe SH1.png" />
+    <None Include="Resources\Safe SH.png" />
+    <None Include="Resources\CashboxNew-641.png" />
+    <None Include="Resources\CashboxNew-64.png" />
+    <None Include="Resources\application_remove.png" />
+    <None Include="Resources\Business Man Blue_64.png" />
+    <None Include="Resources\Client-64.png" />
+    <None Include="Resources\1487123129_Sales-by-Payment-Method-rep.png" />
+    <None Include="Resources\1480382931_Log Out2.png" />
+    <None Include="Resources\saveHS1.png" />
+    <None Include="Resources\data_add1.ico" />
+    <None Include="Resources\application_remove1.png" />
+    <None Include="Resources\remove.png" />
+    <None Include="Resources\database_remove.png" />
+    <None Include="Resources\1480382931_Log Out1.png" />
+    <None Include="Resources\stop.ico" />
+    <None Include="Resources\stop1.png" />
+    <None Include="Resources\1480383006_xfce-system-exit3.png" />
+    <None Include="Resources\1480381895_exit2.png" />
+    <None Include="Resources\1480382931_Log Out.png" />
+    <None Include="Resources\1480381895_exit1.png" />
+    <None Include="Resources\1480383006_xfce-system-exit2.png" />
+    <None Include="Resources\saveHS.png" />
+    <None Include="Resources\data_edit1.ico" />
+    <None Include="Resources\1486608109_Delivery.png" />
+    <None Include="Resources\1486607961_Delivery.png" />
+    <None Include="Resources\wholesaler_autoship.png" />
+    <None Include="Resources\delivery_autoship.png" />
+    <None Include="Resources\Cash_register_72px_510913_easyicon.png" />
+    <None Include="Resources\cash-register-abm-420m_bmp_251_227.png" />
+    <None Include="Resources\Electronic-Billing-Machine-64.png" />
+    <None Include="Resources\1480380353_self21.png" />
+    <None Include="Resources\1480382569_fork41.png" />
+    <None Include="Resources\1480382625_fork3.png" />
+    <None Include="Resources\cashbox.png" />
+    <None Include="Resources\Cash-register-64.png" />
+    <None Include="Resources\Cashbox-64.png" />
+    <None Include="Resources\People-64.png" />
+    <None Include="Resources\Book_openHS.png" />
+    <None Include="Resources\search11.png" />
+    <None Include="Resources\nextover.jpg" />
+    <None Include="Resources\Analysis-642.png" />
+    <None Include="Resources\Billboard-64.png" />
+    <None Include="Resources\shopping-cart-full-icon.png" />
+    <None Include="Resources\full-shopping-cart-icon.png" />
+    <None Include="Resources\basket-icon.png" />
+    <None Include="Resources\basket-full-icon.png" />
+    <None Include="Resources\data_add.ico" />
+    <None Include="Resources\data_edit.ico" />
+    <None Include="Resources\PatientFile2.png" />
+    <None Include="Resources\search1.png" />
+    <None Include="Resources\1485917021_view-refresh.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

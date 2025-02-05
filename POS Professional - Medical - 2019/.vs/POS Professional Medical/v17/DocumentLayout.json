@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Projects\\POS Professional - Medical - 2019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB090FB-7451-4C6F-A8FE-EF05131B24F0}|POS Professional\\POS Professional Medical.vbproj|e:\\my projects\\pos professional - medical - 2019\\pos professional\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EFB090FB-7451-4C6F-A8FE-EF05131B24F0}|POS Professional\\POS Professional Medical.vbproj|solutionrelative:pos professional\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB090FB-7451-4C6F-A8FE-EF05131B24F0}|POS Professional\\POS Professional Medical.vbproj|e:\\my projects\\pos professional - medical - 2019\\pos professional\\acccodeshelp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EFB090FB-7451-4C6F-A8FE-EF05131B24F0}|POS Professional\\POS Professional Medical.vbproj|solutionrelative:pos professional\\acccodeshelp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB090FB-7451-4C6F-A8FE-EF05131B24F0}|POS Professional\\POS Professional Medical.vbproj|E:\\My Projects\\POS Professional - Medical - 2019\\pos professional\\cashbook.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EFB090FB-7451-4C6F-A8FE-EF05131B24F0}|POS Professional\\POS Professional Medical.vbproj|solutionrelative:pos professional\\cashbook.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB090FB-7451-4C6F-A8FE-EF05131B24F0}|POS Professional\\POS Professional Medical.vbproj|E:\\My Projects\\POS Professional - Medical - 2019\\pos professional\\cashbook.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EFB090FB-7451-4C6F-A8FE-EF05131B24F0}|POS Professional\\POS Professional Medical.vbproj|solutionrelative:pos professional\\cashbook.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.vb [Design]",
+              "DocumentMoniker": "E:\\My Projects\\POS Professional - Medical - 2019\\POS Professional\\Main.vb",
+              "RelativeDocumentMoniker": "POS Professional\\Main.vb",
+              "ToolTip": "E:\\My Projects\\POS Professional - Medical - 2019\\POS Professional\\Main.vb [Design]",
+              "RelativeToolTip": "POS Professional\\Main.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-13T17:04:24.415Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccCodesHelp.vb",
+              "DocumentMoniker": "E:\\My Projects\\POS Professional - Medical - 2019\\POS Professional\\AccCodesHelp.vb",
+              "RelativeDocumentMoniker": "POS Professional\\AccCodesHelp.vb",
+              "ToolTip": "E:\\My Projects\\POS Professional - Medical - 2019\\POS Professional\\AccCodesHelp.vb",
+              "RelativeToolTip": "POS Professional\\AccCodesHelp.vb",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAtwD4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-04-13T17:59:50.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CashBook.Designer.vb",
+              "DocumentMoniker": "E:\\My Projects\\POS Professional - Medical - 2019\\POS Professional\\CashBook.Designer.vb",
+              "RelativeDocumentMoniker": "POS Professional\\CashBook.Designer.vb",
+              "ToolTip": "E:\\My Projects\\POS Professional - Medical - 2019\\POS Professional\\CashBook.Designer.vb",
+              "RelativeToolTip": "POS Professional\\CashBook.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-04-03T19:23:06.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashBook.vb [Design]",
+              "DocumentMoniker": "E:\\My Projects\\POS Professional - Medical - 2019\\POS Professional\\CashBook.vb",
+              "RelativeDocumentMoniker": "POS Professional\\CashBook.vb",
+              "ToolTip": "E:\\My Projects\\POS Professional - Medical - 2019\\POS Professional\\CashBook.vb [Design]",
+              "RelativeToolTip": "POS Professional\\CashBook.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-04-03T19:22:51.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

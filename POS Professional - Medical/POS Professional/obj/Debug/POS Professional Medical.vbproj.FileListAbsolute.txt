@@ -1,0 +1,144 @@
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\ResolveAssemblyReference.cache
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.AccountReports.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.AccountStatment.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.AdjustPayment.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.BackupData.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.BillPayment.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.BillReceipt.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CashBook.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CashFlow.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CodesHelp.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CreateDB.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CustomerCode.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CoustomerLedger.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CustomerPurchases.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CustomerReports.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.Dashboard.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.DatabaseParameters.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.Expenses.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.EditPayment.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.PaymentBox.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ProductHelp.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.PurchaseInvoice.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ReferCode.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ReturnPayment.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.SaleInvoice.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.HoldSale.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.LoginInput.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.Main.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.MsgStatus.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.Resources.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.Products.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ServerParameters.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ShopInfo.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.SplashScreen.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.Status.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.StockMenu.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.StockPosition.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.StockReports.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.StockReportViewer.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.SummaryReports.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.PurchasesView.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.WholesalerReports.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS Professional Medical.vbproj.GenerateResource.Cache
+E:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\POS Professional.exe
+E:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\POS Professional.pdb
+E:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\POS Professional.xml
+E:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\CrystalDecisions.Shared.dll
+E:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+E:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\CrystalDecisions.Windows.Forms.xml
+E:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\CrystalDecisions.Shared.xml
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS Professional.exe
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS Professional.xml
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS Professional.pdb
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.AccCodesHelp.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.AccountRegistration.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.AreaRegistration.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CityRegistration.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.DoctorsRegistration.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CompanyRegistration.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ItemRegistration.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.UsersRegistration.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.JournalTransaction.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.RemarksSelection.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.SearchInvoice.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\POS Professional.exe
+Z:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\POS Professional.pdb
+Z:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\POS Professional.xml
+Z:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+Z:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\CrystalDecisions.Shared.dll
+Z:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\CrystalDecisions.Windows.Forms.dll
+Z:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+Z:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\CrystalDecisions.Windows.Forms.xml
+Z:\My Projects\POS Professional - Medical\POS Professional\bin\Debug\CrystalDecisions.Shared.xml
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\ResolveAssemblyReference.cache
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.AccCodesHelp.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.AccountRegistration.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.AccountReports.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.AccountStatment.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.AdjustPayment.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.AreaRegistration.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.BackupData.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.BillPayment.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.BillReceipt.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CashBook.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CashFlow.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CityRegistration.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.DoctorsRegistration.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CompanyRegistration.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CodesHelp.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CreateDB.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CustomerCode.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CoustomerLedger.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CustomerPurchases.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.CustomerReports.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.Dashboard.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.DatabaseParameters.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.Expenses.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ItemRegistration.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.EditPayment.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.JournalTransaction.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.PaymentBox.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ProductHelp.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.PurchaseInvoice.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.PurchaseInvoiceCorrection.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.PurchaseReturn.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ReferCode.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.RemarksSelection.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ReportParam.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ReturnPayment.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.SaleInvoice.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.HoldSale.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.LoginInput.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.Main.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.MsgStatus.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.Resources.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.Products.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ReportsViewer.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.SaleInvoiceCorrection.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.SalesReturn.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.SearchInvoice.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ServerParameters.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ShopInfo.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.SplashScreen.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.Status.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.StockMenu.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.StockPosition.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.StockReports.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.StockReportViewer.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.SummaryReports.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.UsersRegistration.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.PurchasesView.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.WholesalerReports.resources
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS Professional Medical.vbproj.GenerateResource.Cache
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS Professional.exe
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS Professional.xml
+Z:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS Professional.pdb
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.PurchaseInvoiceCorrection.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.PurchaseReturn.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ReportParam.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.ReportsViewer.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.SaleInvoiceCorrection.resources
+E:\My Projects\POS Professional - Medical\POS Professional\obj\Debug\POS_Professional.SalesReturn.resources

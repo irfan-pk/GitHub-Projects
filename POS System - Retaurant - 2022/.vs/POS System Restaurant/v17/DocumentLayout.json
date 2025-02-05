@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Projects\\POS System - Retaurant - 2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|e:\\my projects\\pos system - retaurant - 2022\\pos system\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|solutionrelative:pos system\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|E:\\My Projects\\POS System - Retaurant - 2022\\pos system\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|solutionrelative:pos system\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|E:\\My Projects\\POS System - Retaurant - 2022\\pos system\\parcel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|solutionrelative:pos system\\parcel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|E:\\My Projects\\POS System - Retaurant - 2022\\pos system\\dinetablemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|solutionrelative:pos system\\dinetablemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|E:\\My Projects\\POS System - Retaurant - 2022\\pos system\\dinetablemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|solutionrelative:pos system\\dinetablemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|E:\\My Projects\\POS System - Retaurant - 2022\\pos system\\foodmenulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|solutionrelative:pos system\\foodmenulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|E:\\My Projects\\POS System - Retaurant - 2022\\pos system\\foodmenulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|solutionrelative:pos system\\foodmenulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|E:\\My Projects\\POS System - Retaurant - 2022\\pos system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|solutionrelative:pos system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|E:\\My Projects\\POS System - Retaurant - 2022\\pos system\\mdlgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|solutionrelative:pos system\\mdlgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|E:\\My Projects\\POS System - Retaurant - 2022\\pos system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5564CC25-C262-019B-3A02-0779B0927017}|POS System\\POS Restaurant.csproj|solutionrelative:pos system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parcel.Designer.cs",
+              "DocumentMoniker": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\Parcel.Designer.cs",
+              "RelativeDocumentMoniker": "POS System\\Parcel.Designer.cs",
+              "ToolTip": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\Parcel.Designer.cs",
+              "RelativeToolTip": "POS System\\Parcel.Designer.cs",
+              "ViewState": "AgIAABADAAAAAAAAAAAcwBwDAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T00:21:12.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DineTableMenu.cs",
+              "DocumentMoniker": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\DineTableMenu.cs",
+              "RelativeDocumentMoniker": "POS System\\DineTableMenu.cs",
+              "ToolTip": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\DineTableMenu.cs",
+              "RelativeToolTip": "POS System\\DineTableMenu.cs",
+              "ViewState": "AgIAAPwCAAAAAAAAAAAIwBADAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:58:14.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DineTableMenu.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\DineTableMenu.cs",
+              "RelativeDocumentMoniker": "POS System\\DineTableMenu.cs",
+              "ToolTip": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\DineTableMenu.cs [Design]",
+              "RelativeToolTip": "POS System\\DineTableMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:58:00.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodMenuList.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\FoodMenuList.cs",
+              "RelativeDocumentMoniker": "POS System\\FoodMenuList.cs",
+              "ToolTip": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\FoodMenuList.cs [Design]",
+              "RelativeToolTip": "POS System\\FoodMenuList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:34:05.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodMenuList.cs",
+              "DocumentMoniker": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\FoodMenuList.cs",
+              "RelativeDocumentMoniker": "POS System\\FoodMenuList.cs",
+              "ToolTip": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\FoodMenuList.cs",
+              "RelativeToolTip": "POS System\\FoodMenuList.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAYwJAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:51:36.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parcel.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\Parcel.cs",
+              "RelativeDocumentMoniker": "POS System\\Parcel.cs",
+              "ToolTip": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\Parcel.cs [Design]",
+              "RelativeToolTip": "POS System\\Parcel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:40:07.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parcel.cs",
+              "DocumentMoniker": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\Parcel.cs",
+              "RelativeDocumentMoniker": "POS System\\Parcel.cs",
+              "ToolTip": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\Parcel.cs",
+              "RelativeToolTip": "POS System\\Parcel.cs",
+              "ViewState": "AgIAAG8CAAAAAAAAAAAAAHsCAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:37:33.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\Main.cs",
+              "RelativeDocumentMoniker": "POS System\\Main.cs",
+              "ToolTip": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\Main.cs",
+              "RelativeToolTip": "POS System\\Main.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAvwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:33:34.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\Main.cs",
+              "RelativeDocumentMoniker": "POS System\\Main.cs",
+              "ToolTip": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\Main.cs [Design]",
+              "RelativeToolTip": "POS System\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:33:32.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mdlGeneral.cs",
+              "DocumentMoniker": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\mdlGeneral.cs",
+              "RelativeDocumentMoniker": "POS System\\mdlGeneral.cs",
+              "ToolTip": "E:\\My Projects\\POS System - Retaurant - 2022\\POS System\\mdlGeneral.cs",
+              "RelativeToolTip": "POS System\\mdlGeneral.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAawPEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:16:18.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
